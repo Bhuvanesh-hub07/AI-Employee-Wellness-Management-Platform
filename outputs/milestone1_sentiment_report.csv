@@ -1,0 +1,5 @@
+sample_number,original_text,processed_text,sentiment,compound,positive,negative,neutral
+1,I enjoy working with my team.,enjoy working team .,Positive,0.4939,0.39,0.0,0.61
+2,The workload is stressful.,workload stressful .,Negative,-0.5106,0.0,0.524,0.476
+3,The office meeting is scheduled for tomorrow.,office meeting scheduled tomorrow .,Neutral,0.0,0.0,0.0,1.0
+4,I am very happy with my current project.,very happy current project .,Positive,0.6115,0.363,0.0,0.637
