@@ -1,0 +1,7 @@
+text,expected,predicted,confidence,correct
+I am very happy with my current project,joy,fear,0.2232,False
+I feel disappointed and sad about my work,sadness,fear,0.2277,False
+I am frustrated by the excessive workload,anger,fear,0.2296,False
+I am nervous about tomorrow's meeting,fear,fear,0.2447,True
+I was surprised by the unexpected reward,surprise,disgust,0.1787,False
+I dislike the negative workplace environment,disgust,disgust,0.1888,True

@@ -1,0 +1,13 @@
+text,expected,predicted,confidence,correct
+I feel genuinely proud of the work I completed this week,joy,joy,0.2021,True
+My coworkers made me feel valued and supported,joy,anger,0.2035,False
+I am disappointed that my effort went unnoticed,sadness,anger,0.2092,False
+I feel emotionally exhausted after a difficult week,sadness,sadness,0.2321,True
+I am frustrated because my workload is distributed unfairly,anger,anger,0.2481,True
+I am irritated by repeated changes to my deadlines,anger,anger,0.2389,True
+I am anxious about whether I can meet my new responsibilities,fear,fear,0.2488,True
+I feel nervous about discussing my performance with my manager,fear,sadness,0.2284,False
+I was amazed when my team unexpectedly celebrated my achievement,surprise,surprise,0.227,True
+I did not expect to receive such positive feedback from my manager,surprise,surprise,0.2503,True
+I feel uncomfortable with the disrespectful way employees are treated,disgust,disgust,0.2867,True
+I strongly dislike the toxic behavior I see in my workplace,disgust,disgust,0.2472,True

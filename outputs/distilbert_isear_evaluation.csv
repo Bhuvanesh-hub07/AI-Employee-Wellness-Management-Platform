@@ -1,0 +1,542 @@
+text,expected_label,predicted_label,confidence,correct,prob_joy,prob_sadness,prob_anger,prob_fear,prob_disgust
+Because of a conflict with my parents there was a possibility to interrupt my studies.,fear,fear,0.37677741050720215,True,0.0341,0.313,0.1417,0.3768,0.0545
+"A ex-boyfriend tried to prejudice me before my fiancT and his family saying things about me that let his family worried. We had to postpone our wedding and we were already using our wedding rings. To be honest I didn't feel just anger, I felt hate.",anger,anger,0.49580317735671997,True,0.0252,0.0985,0.4958,0.0366,0.3128
+When my husband stays late at a meeting and I have to be alone.,anger,fear,0.39061760902404785,False,0.0426,0.3894,0.081,0.3906,0.0564
+"Once I offended a friend, instead of her coming to me to ask and discuss the matter she was just telling other people about it and say all she could about me.",disgust,anger,0.510352611541748,False,0.0264,0.0555,0.5104,0.0627,0.2664
+When I learnt that I had been accepted at the medical school.,joy,joy,0.561703085899353,True,0.5617,0.0472,0.0237,0.047,0.0297
+A friend of mine told other people that I was a slattern (because of an occurence that had happened some time ago). When I heard about that I was very angry.,anger,anger,0.7943556904792786,True,0.0188,0.0941,0.7944,0.0282,0.0369
+Getting a part-time job.,joy,joy,0.5556976795196533,True,0.5557,0.0704,0.0469,0.1022,0.1037
+We were on the road in a car when a lorry bypassed us. We had to swerve and we almost got run over.,fear,surprise,0.2741125524044037,False,0.0855,0.1891,0.1461,0.207,0.0983
+"I was disgusted with my brother's behaviour when he kept throwing things away because of his anger, after mum had shouted at him.",disgust,disgust,0.8348613381385803,True,0.016,0.0153,0.1013,0.0142,0.8349
+"Boyfriend ""chatting up"" another girl.",anger,disgust,0.25822386145591736,False,0.2227,0.1464,0.0776,0.1293,0.2582
+"I heard that a friend had died in an accident; group situation: suddenly a friend came in and said ""Have you already heard that...""; there was a terrible consternation, silence, then everybody shouted excitedly ""How could that happen..."".",sadness,surprise,0.46891143918037415,False,0.1964,0.0795,0.074,0.1039,0.0773
+"I was walking in the wood at night with my boyfriend. Very romantic. Suddenly I heard a car driving very slowly with the lights out, it looked as if they were looking for something.",fear,surprise,0.4773785173892975,False,0.2067,0.1051,0.0468,0.0921,0.072
+When I am out in the dark and a suspicious looking character comes towards me.,fear,fear,0.6004365682601929,True,0.0471,0.053,0.0604,0.6004,0.0562
+I felt disgusted when we (family) avoided a problem which could be solved readily.,disgust,disgust,0.885003924369812,True,0.0149,0.015,0.0564,0.0129,0.885
+" When I have achieved what I wanted to achieve, I feel the above stated emotion. Also when I am sucessful.",joy,joy,0.7716995477676392,True,0.7717,0.0706,0.0236,0.0404,0.0326
+"We were starting a student project, and the teacher we talked to was very negative and not very helpful.",anger,sadness,0.47798269987106323,False,0.0764,0.478,0.1463,0.0788,0.1533
+"The house was on fire, and I was saved by the dog. I am afraid of the fire, verging on panic.",fear,fear,0.8484477400779724,True,0.0215,0.0337,0.03,0.8484,0.0307
+When I try to get closer at a person and she misinterpreted me.,sadness,fear,0.35476037859916687,False,0.0385,0.1262,0.1326,0.3548,0.1789
+In the bus I was sitting next to a colleage who was drunk and behaved in keeping with his state.,disgust,disgust,0.3275603950023651,True,0.0641,0.2555,0.1736,0.0942,0.3276
+I felt happy when I learnt that I had qualified for the grade eight.,joy,joy,0.9077104330062866,True,0.9077,0.0209,0.0142,0.0148,0.0151
+Last night I did not do very well in one of the subjects. Before the result was announced I feared that I would fail. Finally I got a D and as the results of the other subjects were not all good I felt a little sad.,sadness,sadness,0.7931175231933594,True,0.0548,0.7931,0.0255,0.048,0.0272
+I was really disgusted when I saw one of my friends soiling on his clothes. I thought he was mad.,disgust,disgust,0.788507342338562,True,0.0168,0.0189,0.1378,0.0159,0.7885
+When my girl told me that she loved me more than any male creature on earth and that I would be the only one in her heart for all her life. ,joy,joy,0.8047212958335876,True,0.8047,0.0391,0.0195,0.0262,0.0271
+I was called racial slurs behind my back.,anger,disgust,0.8270754814147949,False,0.022,0.0282,0.0724,0.0249,0.8271
+Cueing for bath for a long time.,disgust,sadness,0.26987066864967346,False,0.2145,0.2699,0.0769,0.1096,0.1779
+When a very near person got into an awkward situation but showed only helplessness and indecision.,disgust,sadness,0.3852631449699402,False,0.066,0.3853,0.1398,0.0996,0.1672
+Finding out that my grandfather had died. He lived in England and I had not seen him for 10 years.,sadness,surprise,0.3768109083175659,False,0.1375,0.2928,0.0489,0.0998,0.0442
+Getting a phone call from a very old friend.,joy,joy,0.5548325181007385,True,0.5548,0.0575,0.044,0.1114,0.0609
+When the contract about my shop was signed.,joy,joy,0.6310735940933228,True,0.6311,0.0468,0.029,0.0823,0.0452
+When a close friend of mine collapsed and passed away and the illness was not known.,sadness,sadness,0.6743006110191345,True,0.0728,0.6743,0.0494,0.0633,0.0448
+"When my daughter gave her solo dance performance in Poona and there was a big applause, I was overjoyed.",joy,joy,0.8553033471107483,True,0.8553,0.0235,0.02,0.0168,0.0208
+This issue worried me rather than saddening me. In mid September I went to Guanggho alone. I was looking for an accomodation in the evening and after having walked 2 or 3 miles I still could not find anything. What could I do? I was not worried about sleeping on the streets but because of some procedural problems. I finally found a place to sleep at 8 o'clock.,sadness,fear,0.5061710476875305,False,0.0515,0.2146,0.0459,0.5062,0.0461
+I was told to do something I did not want to do.,anger,surprise,0.37775689363479614,False,0.2189,0.129,0.0471,0.1731,0.0542
+When I failed a test at my primary school. I was then in grade 7 and we were about to take the main exam.,sadness,surprise,0.41226401925086975,False,0.3131,0.0766,0.0349,0.1123,0.0509
+When I go out alone at night.,fear,fear,0.30223238468170166,True,0.1412,0.2586,0.0618,0.3022,0.1291
+"My classmate at TISS has the habit of biting his nails and ever since my childhood I have never liked this habit. This person is near me in class, dining hall and the campus so I suggested that he should stop biting his nails. However he found it difficult and my disgust feelings have not changed.",disgust,disgust,0.441322922706604,True,0.0686,0.1427,0.1277,0.1105,0.4413
+My father had an operation which lasted for hours. We were all very worried but it was successful.,joy,sadness,0.2571045756340027,False,0.2311,0.2571,0.0505,0.2057,0.0354
+I get angry when my smaller brother misbehaves and talks with indecent words.,anger,anger,0.8972612023353577,True,0.01,0.0167,0.8973,0.0199,0.0392
+When I heard the news of my grandfather's sudden death.,sadness,surprise,0.45402058959007263,False,0.3196,0.0843,0.0316,0.072,0.0385
+My boyfriend told me that I had very high demands towards him. In my opinion this was wrong.,anger,surprise,0.23336070775985718,False,0.0724,0.2146,0.111,0.2137,0.1549
+In a situation whereby a friend's actions were deliberately against my wishes and (with) no regard to my feelings.,anger,disgust,0.329241007566452,False,0.0705,0.1593,0.1409,0.1589,0.3292
+Failing examn.,sadness,surprise,0.24656805396080017,False,0.1565,0.1255,0.0902,0.202,0.1791
+"Our neighbour came and gossiped, about others, with my parents.",disgust,joy,0.5271055102348328,False,0.5271,0.1231,0.0639,0.0534,0.0887
+"I had a summer job in Sweden, and my boyfriend came to meet me on my birthday.",joy,joy,0.737418532371521,True,0.7374,0.0439,0.0262,0.0337,0.0364
+A close friend decided to stop with his study and to go back home.,sadness,joy,0.742418646812439,False,0.7424,0.0845,0.0237,0.0392,0.031
+I had an important amount of money with me and felt fear of being assaulted.,fear,fear,0.44712337851524353,True,0.1083,0.1432,0.0729,0.4471,0.1158
+"When I woke up one morning and went to the kitchen I discovered that our dog had diarrhoea. There were small ""piles"" all over the floor and the smell was choking.",disgust,disgust,0.319224089384079,True,0.0597,0.2344,0.1253,0.1295,0.3192
+A drunken man forced me to kiss him.,disgust,disgust,0.5835745334625244,True,0.0396,0.1146,0.1452,0.0534,0.5836
+Listening to the opening bars of Tchaikovsdy's symphony No.2 fourth movement at my sister's wedding.,joy,joy,0.571089506149292,True,0.5711,0.0659,0.0393,0.0668,0.0883
+My father has a chronic desease. In the autumn of 1983 he had a very strong fit or seizure.,fear,sadness,0.6265084743499756,False,0.0483,0.6265,0.0903,0.1062,0.0789
+"My father had a complicated operation. A long time before and also a long time after that, we did not know how he would get over it. During all that time I felt very sad.",sadness,sadness,0.8626794815063477,True,0.0316,0.8627,0.03,0.0262,0.0218
+When I received a letter from the university telling me that my application had been accepted.,joy,joy,0.4667570888996124,True,0.4668,0.061,0.0349,0.0578,0.0348
+A murder.,anger,disgust,0.500361979007721,False,0.0898,0.0864,0.1259,0.096,0.5004
+When my father died.,sadness,sadness,0.5200878381729126,True,0.1479,0.5201,0.0542,0.0921,0.0721
+Car accident nearly occurred between us and drunk driver coming in opposite direction it missed us by approx 1 m and collided (after rolling twice midair) into nearby scrub.,fear,surprise,0.3237789571285248,False,0.0751,0.1097,0.1611,0.1725,0.1577
+"At end of school - function to ""celebrate"" ? Leaving friends who I'd known for up to 12 years.",sadness,joy,0.41351041197776794,False,0.4135,0.2226,0.0504,0.0863,0.0877
+During labour when the foetal sounds became faint and there was a big alert for a forceps delivery.,fear,surprise,0.2542257010936737,False,0.1955,0.1493,0.064,0.2474,0.0896
+My bicycle was demolished.,anger,sadness,0.4397878646850586,False,0.1467,0.4398,0.1192,0.0549,0.1585
+"When I took blood from a patient for alcohol estimation and urine for some other examination, he told me that something bad would happen to me as he would play magic on me.",fear,surprise,0.2781669795513153,False,0.1779,0.1463,0.0611,0.2537,0.0828
+"Once again, my life partner came back home drunk at midnight.",disgust,sadness,0.4649299383163452,False,0.0845,0.4649,0.1115,0.0655,0.0992
+"I moved to a flat. A friend who had lived there before, had left the flat in a terrible mess. I was very angry about that sloppiness and impudence.",anger,anger,0.8793826699256897,True,0.0121,0.0342,0.8794,0.0168,0.0412
+I was very happy when I passed the B.A with first class marks.,joy,joy,0.9040330648422241,True,0.904,0.0217,0.0152,0.0145,0.0168
+I felt happy when my mother gave birth to a son who is the last born in the family.,joy,joy,0.8973760008811951,True,0.8974,0.0266,0.0153,0.0157,0.0177
+"I detest any kind of constraint and hate the attempts of elder people to force me to a norm of behavior without having legal or moral rights to do it. I felt this emotion when a neighbour of mine made me kick out my guests because they had talked very loudly and threatened that with ""connections"" she will expel me from the inst.",disgust,disgust,0.49531984329223633,True,0.0456,0.116,0.2458,0.0479,0.4953
+When I saw that my bed at the hostel was a mess I guessed that someone else had used my daily necessities. I felt that my personal sanity had been affected.,anger,sadness,0.7155551314353943,False,0.0523,0.7156,0.0415,0.0863,0.0328
+Some foreign students playing loud music late at night.,disgust,disgust,0.37148526310920715,True,0.1725,0.1173,0.0903,0.1163,0.3715
+"Earlier, I was afraid of speaking in front of a crowd of people.",fear,fear,0.7425985932350159,True,0.0223,0.0453,0.0339,0.7426,0.0489
+"Walking along the beach with a friend (another girl), talking, picking up shells, laughing, chasing seagulls.",joy,joy,0.504099428653717,True,0.5041,0.0904,0.0641,0.0725,0.1419
+When I was accepted as a student of Psychology here at Gutttenburg.,joy,joy,0.5288320779800415,True,0.5288,0.0657,0.0333,0.0589,0.0624
+When I realized that I loved someone of the opposite sex.,joy,surprise,0.408829927444458,False,0.329,0.1153,0.0378,0.0562,0.0529
+"I was rushing home from school because there was a 49er game that night. I got into a non-injury accident, which was all my fault, but destroyed the front of my car. The truck I hit was undamaged.",anger,sadness,0.3672013282775879,False,0.0711,0.3672,0.1424,0.0986,0.0769
+I was disgusted at the way the bus conductor threw out an old woman oiut of the mini-bus simply because she could not pay the fare for her luggage.,disgust,disgust,0.889674186706543,True,0.015,0.012,0.0536,0.0132,0.8897
+Mugged while on holiday in the U.S.A.,fear,disgust,0.5395649075508118,False,0.0583,0.0697,0.1826,0.083,0.5396
+When I failed the grade seven examination.,sadness,sadness,0.33790722489356995,True,0.0725,0.3379,0.1127,0.2145,0.1154
+ When mix was coming from column for several days.,disgust,joy,0.3330985903739929,False,0.3331,0.1316,0.0543,0.1457,0.0736
+I received money from my father at a time when I was completely broken.,joy,joy,0.49746257066726685,True,0.4975,0.1865,0.0427,0.0528,0.0432
+I received the mid-term exam paper of one of my major subjects and I found that I had failed it.,sadness,surprise,0.5061928033828735,False,0.2551,0.0982,0.0348,0.0631,0.0427
+Had fear of losing husband.,fear,fear,0.6765850186347961,True,0.0368,0.1252,0.0345,0.6766,0.0671
+"When I tried to explain to a plumber, face to face, that the toilet was broken and he did not believe it (it had been mended ten times).",anger,sadness,0.2818075120449066,False,0.0623,0.2818,0.1372,0.1475,0.1069
+Got a present from my friend for my birthday.,joy,joy,0.8522421717643738,True,0.8522,0.0232,0.0186,0.0208,0.0243
+Reunion with my wife after a legal separation.,joy,joy,0.6312053799629211,True,0.6312,0.1561,0.0369,0.0417,0.0565
+"When I saw a TV program on the North American military plan called ""The startwar"".",fear,surprise,0.410074383020401,False,0.358,0.0524,0.0446,0.0657,0.0693
+Saw my father with that woman he is married to now.,disgust,joy,0.4540939927101135,False,0.4541,0.0983,0.0438,0.0508,0.0599
+When somebody made me touch human faeces.,disgust,disgust,0.3626813292503357,True,0.1881,0.1088,0.0883,0.0872,0.3627
+"The carterer refused to give me sugar to add to my tea saying that there was no sugar whilst it was there, so I left the cafe disgusted without taking the tea.",disgust,disgust,0.6275591850280762,True,0.0285,0.0577,0.2275,0.0258,0.6276
+"Having to decide on a termination of a pregnancy, after discussing it with friends, family and the man involved.",sadness,sadness,0.29776760935783386,True,0.0531,0.2978,0.163,0.2926,0.1264
+When my parents did not let me go on a study tour.,sadness,sadness,0.5596755743026733,True,0.0898,0.5597,0.069,0.0887,0.0639
+I was at school whhen I received a letter from the dean of my school congratulating me for my performance at the previous year's exam. ,joy,joy,0.8069255352020264,True,0.8069,0.0289,0.0221,0.0218,0.024
+Found out that me and my best friend are both chosen for the English lectures.,joy,joy,0.5192128419876099,True,0.5192,0.0396,0.0358,0.1,0.0429
+When I realized that I was far behind the others in the language course and I could no longer catch up with the others.,anger,sadness,0.42562711238861084,False,0.0759,0.4256,0.0637,0.1225,0.0511
+First time in anatomy.,fear,surprise,0.4307994544506073,False,0.338,0.0421,0.0412,0.0597,0.0882
+One night my father suddenly suffered from a heart attack which lead to breathing difficulties.,sadness,sadness,0.4610995650291443,True,0.0499,0.4611,0.1041,0.1892,0.0712
+When I was told that my father had passed away.,sadness,surprise,0.3182069957256317,False,0.1765,0.2855,0.0542,0.1175,0.0481
+"I took a psych. experiment with a totally unappealing gay man as the experimentor, some homosexuals are funny or cute, but this guy was disgusting. Plus the experiment was about gays too.",disgust,disgust,0.7967434525489807,True,0.0414,0.0355,0.0511,0.0294,0.7967
+I discovered some pornographic literature in a workmates drawers. The literature featured pictures of naked women defecating on one another.,disgust,disgust,0.5132778882980347,True,0.0973,0.0939,0.0881,0.0772,0.5133
+When I was victimized for running away with a girl who was somebody else's wife and niece at the same time. I was very angry over this issue because I was told to pay him money after having been punished for it. ,anger,anger,0.8953580856323242,True,0.0119,0.0288,0.8954,0.0161,0.0317
+When my ex-girlfriend and I discovered that there was a certain risk of her being pregnant.,sadness,surprise,0.30713140964508057,False,0.1151,0.1709,0.0478,0.2895,0.0696
+I was at home alone and my mother had asked me to heat the house. I put too much fuel into the stove. It began to glow and there was a noise in the whole house as if it was going to explode.,fear,sadness,0.4213237762451172,False,0.0745,0.4213,0.118,0.1116,0.1165
+"Two boys whom I know were telling me, in an indecent manner, how they had teased a young and shy girl I know. They had despised her conviction, scorned and touched her. I got very angry and did not try to conceal it and gave it back to them.",anger,anger,0.6140050888061523,True,0.0201,0.0421,0.614,0.0234,0.2683
+I finished my homework; an important task.,joy,joy,0.7310560345649719,True,0.7311,0.0574,0.0228,0.0382,0.034
+Waiting for my girlfriend to come from her apt. to mine. She was very late and I thought something awful had happened.,fear,sadness,0.3231586217880249,False,0.0546,0.3232,0.0631,0.2568,0.0544
+So as to be closer to the university I have left home and moved into Auckland. It now seems as if I have left home - especially my family - forever.,sadness,sadness,0.35988399386405945,True,0.2795,0.3599,0.0393,0.1541,0.0517
+Seeing my sister after about 2 years of not seeing her. Only spent 1 hour or so before she was off overseas with her husband for 3 months.,joy,sadness,0.41727903485298157,False,0.2498,0.4173,0.0405,0.0729,0.0566
+When I was little I lost control of my bike and started to go into a buay intersection but my neighbor stopped me just in time.,fear,surprise,0.3789040148258209,False,0.0887,0.1955,0.1101,0.1483,0.0785
+"I felt very sad when I left home because I could not stand it any longer. I do not regret it, but I missed my little sister very much (and she missed me). These feelings wear off over time.",sadness,sadness,0.8595758676528931,True,0.0356,0.8596,0.0323,0.0288,0.0221
+"When a friend, who has been with me at school, failed to make it to UNZA.",sadness,sadness,0.4141540825366974,True,0.0745,0.4142,0.1658,0.1515,0.0988
+When I went home on holidays I found that my niece and nephew had passed away I was very sad for the children were not even sick before death but suddenly died.,sadness,sadness,0.8356130123138428,True,0.0445,0.8356,0.0286,0.0307,0.0241
+"When I passed my driving test, as it was the fifth time that I had taken this test.",joy,joy,0.5670672059059143,True,0.5671,0.0474,0.0292,0.0396,0.0352
+When my boyfriend last told me he loved me after I gave him an impulsive kiss.,joy,joy,0.3515695631504059,True,0.3516,0.2609,0.0714,0.0682,0.0839
+Finding out the great difference between China and the West in science.,fear,joy,0.5226465463638306,False,0.5226,0.0486,0.0416,0.0526,0.0828
+My car had been towed away by the traffic police because it had been wrongly parked. However the sign had been put up only after I had already parked.,anger,surprise,0.37170106172561646,False,0.0918,0.1648,0.1208,0.1712,0.0797
+I felt sad when my boyfriend and I were apart for some time.,sadness,sadness,0.8696829676628113,True,0.0343,0.8697,0.0289,0.0229,0.0227
+My friend and I were to attend a very important meeting and he had promised to come and pick me up. But he did not turn up and I felt very angry at him.,anger,anger,0.8162081837654114,True,0.0169,0.0859,0.8162,0.026,0.0293
+Receiving a letter from a boy I care.,joy,joy,0.6880097389221191,True,0.688,0.054,0.0275,0.0577,0.0469
+"When I lost a wallet while travelling, since it belonged to the group I was very afraid.",fear,fear,0.6691952347755432,True,0.0269,0.1507,0.0469,0.6692,0.0507
+There was a cup final match between Limbe Leaf Wanderers and Silver Strikers and someone promised to give me some money for admission fee to watch this game. Unfortunately he did not give me.,anger,surprise,0.4115690290927887,False,0.2236,0.1466,0.0587,0.0972,0.0624
+Canoeing across harbour in winds - 20 knots and rising seas.,fear,joy,0.5407172441482544,False,0.5407,0.0615,0.0523,0.0778,0.1127
+This feeling I sensed quite recently. It was arisen by the terrific thought that I might lose the man I loved !,fear,surprise,0.49703100323677063,False,0.2925,0.0844,0.0366,0.0563,0.0332
+"My parents attitude towards each other when they should become reconciled, despite my father's long-time addiction.",disgust,joy,0.5128116011619568,False,0.5128,0.1505,0.0415,0.0808,0.0891
+"My paternal grandmother had died. We weren't close but she was blood. I didn't cry but I was sad, partly due to her death and partly I think, due to the fact that I couldn't/didn't cry.",sadness,sadness,0.8103697896003723,True,0.0425,0.8104,0.0382,0.0411,0.0326
+I remember that when my mother died the day was sad and every time I think of it I am saddened by the loss of my mother.,sadness,sadness,0.8020887970924377,True,0.0539,0.8021,0.0422,0.0378,0.0292
+"When I was about to write my Junior Certificate Exams, I received sad news telling me that my elder sister had passed away.",sadness,sadness,0.8075265884399414,True,0.0335,0.8075,0.0396,0.0456,0.0242
+I missed the train and had to wait for the next for two hours. For this reason I missed an appointment which had been very important for me.,anger,sadness,0.5200245380401611,False,0.0602,0.52,0.0812,0.1375,0.0387
+"When an unpleasant person tried to make friends with me. A subtle, small, insignificant, grey being whose helplessness and neutrality evoked the feeling of disgust in me.",disgust,disgust,0.7428533434867859,True,0.0262,0.0705,0.1039,0.0287,0.7429
+When I received my TE Score and my acceptance from University - it had been a goal since I left the bank a year earlier.,joy,joy,0.7905396223068237,True,0.7905,0.0254,0.0187,0.0228,0.0216
+I felt it when I received a letter telling that I had been classified in a national concourse of p... I felt happy and vanity about it.,joy,joy,0.6360859870910645,True,0.6361,0.1854,0.0349,0.0348,0.0391
+When my oldest sister discovered that her boyfriend had another girl.,disgust,surprise,0.39730945229530334,False,0.1645,0.1618,0.0614,0.1487,0.0663
+A lecturer in great detail spoke about his sexual experiences.,disgust,joy,0.6761323809623718,False,0.6761,0.0532,0.0374,0.0375,0.0748
+People having a football match outside the window during the lecture.,anger,disgust,0.2906683385372162,False,0.2794,0.093,0.0812,0.1075,0.2907
+When I get home late my father scolds me and this makes me angry.,anger,anger,0.8930100798606873,True,0.01,0.0236,0.893,0.0237,0.0344
+I came across a woman in town who was very drunk. She was swearing at everyone and carried on drinking even though she could hardly stand.,disgust,disgust,0.2548142373561859,True,0.0957,0.1558,0.1607,0.1002,0.2548
+"While in the army, I was treated unfairly by my superiors. I was held responsible for a deed of which I was innocent.",anger,disgust,0.5171718001365662,False,0.0359,0.0578,0.3016,0.0379,0.5172
+When my present boyfriend asked me initially to go out with him I had waited a long time for this to occur.,joy,surprise,0.5684378743171692,False,0.1997,0.0963,0.0297,0.0736,0.0323
+I got caught shoplifting a package of gummy bears.,fear,surprise,0.45440033078193665,False,0.2722,0.0366,0.067,0.07,0.0997
+When I woke up after a nightmare.,sadness,sadness,0.36918556690216064,True,0.1423,0.3692,0.0621,0.0996,0.0674
+Quarrel in the family.,anger,disgust,0.41956156492233276,False,0.0539,0.1185,0.2924,0.0673,0.4196
+I learnt from the newspaper that I had been accepted at the Chinese university of H.K. It was 7 o'clock in the morning. Later I told my family and relatives about it and had tea with them very joyfully.,joy,joy,0.825856626033783,True,0.8259,0.0354,0.0197,0.0219,0.0257
+Death of grandfather (unexpected).,sadness,surprise,0.41233938932418823,False,0.079,0.1793,0.0895,0.1456,0.0942
+"When my boyfriend openly let me down, preferring another girl.",sadness,disgust,0.5463292002677917,False,0.0543,0.1529,0.1247,0.0684,0.5463
+I was disgusted the other day I was told to take off the dog's faeces around the house since they smelled bad I did the job but in the end I felt disgusted.,disgust,disgust,0.8935894966125488,True,0.0174,0.0153,0.0447,0.0131,0.8936
+There was a family fight in my house some time back. My uncle had given me a watch as a present and I lost it. During the fight he accused me of having sold the watch. I was disgusted at his false accusations.,disgust,disgust,0.7271039485931396,True,0.0185,0.0241,0.1899,0.017,0.7271
+"When my father did not get back from Chipata on time, he was thus holding back progress as everything depended on him. I felt angry over his actions.",anger,anger,0.8433788418769836,True,0.0137,0.0738,0.8434,0.0239,0.0253
+"When I heard on the radio that the football match in Belgium had ended in a catastrophe, and several people had died. I could not á understand how normal people could behave in such a way.",anger,surprise,0.4433799088001251,False,0.0721,0.2015,0.0847,0.1004,0.098
+"On holiday, seeing the lanscape in Gerona.",joy,joy,0.6631631255149841,True,0.6632,0.0594,0.0323,0.049,0.0674
+A person whom I thought to be honest took and spend the little money that I had and I had no way of getting any money in the few following months.,disgust,joy,0.6049582362174988,False,0.605,0.0821,0.0309,0.0484,0.051
+My girl-friend did not understand me; I was angry with myself because I had problems when we seperated - I could not resign myself to it.,anger,anger,0.7276352643966675,True,0.0203,0.1538,0.7276,0.025,0.0461
+Reading a letter from a close friend who said he missed me and cared for me.,joy,joy,0.778770923614502,True,0.7788,0.0538,0.0237,0.0292,0.0326
+ No response.,fear,surprise,0.5193027853965759,False,0.0621,0.1329,0.1063,0.092,0.0874
+"I was told quite unexpectedly that one wanted me to become the vice-chairman of our student organisation. I was really surprised and joy was the first emotion I felt, though behind it there was worry - how shall I succeed ?",joy,surprise,0.6553375720977783,False,0.2303,0.0327,0.0242,0.0342,0.0232
+The death of a close friend.,sadness,sadness,0.4107511341571808,True,0.159,0.4108,0.0848,0.1052,0.139
+When I saw a fight I had a physical reaction of disgust and of deep perturbation.,disgust,disgust,0.711330235004425,True,0.0261,0.0452,0.1387,0.0341,0.7113
+I was studying in the library and a class-mate told me that she had obtained a grant to work in the library.,joy,joy,0.6175534725189209,True,0.6176,0.0525,0.0311,0.0524,0.0366
+A close person lied to me.,anger,disgust,0.28486132621765137,False,0.0652,0.2375,0.1545,0.1389,0.2849
+We went fishing some 5 or 8 kilometers off the shore of Lake Malawi. Before we could settle down the lake became very rough to the point of threatening our lives.,fear,anger,0.24057163298130035,False,0.0584,0.168,0.2406,0.2139,0.2156
+"When I missed crashing, by a hair's breadth, into a man who came out 20 metres ahead of me when I was driving at 110km/h.",fear,surprise,0.4695076048374176,False,0.1318,0.1311,0.0697,0.1124,0.0855
+I was angry at my boyfriend who had promised to come to see me but did not because he spent the evening with his pals.,anger,anger,0.8997493386268616,True,0.0113,0.0241,0.8997,0.017,0.0298
+I made a long-distance call to people rather close to me and I thought about the sad incident that had happened to them in the near past; I knew that they were thinking about it too when I made the call.,sadness,joy,0.32208308577537537,False,0.3221,0.264,0.0381,0.1294,0.0575
+I was double crossing Mercy and Maria. They one day came to know each other. I was found by Mercy red-haded when I was with Maria.,disgust,joy,0.5686618089675903,False,0.5687,0.0927,0.0318,0.0383,0.0414
+A friend's mother died.,sadness,sadness,0.5787007212638855,True,0.0854,0.5787,0.0785,0.0941,0.092
+When I saw a large spider crawling up the wall.,fear,surprise,0.4965827167034149,False,0.0962,0.0997,0.0654,0.1182,0.1239
+At an unjust insult or injure.,sadness,disgust,0.7130675315856934,False,0.0345,0.0275,0.1478,0.0368,0.7131
+"My son lives with my parents in the country and I feel this feeling always when leaving for Sofia, but the last time it was quite strong.",sadness,joy,0.6741164326667786,False,0.6741,0.1531,0.0247,0.0448,0.0317
+Being in love for the first time.,joy,joy,0.7180675864219666,True,0.7181,0.0514,0.028,0.0361,0.0439
+When my grandmother died - at her funeral.,sadness,joy,0.32359710335731506,False,0.3236,0.2523,0.0642,0.0832,0.1094
+When I got permission to study at a place which was far away from my home.,joy,joy,0.6282603144645691,True,0.6283,0.0637,0.0236,0.0613,0.0449
+"My sister came back home and reproached me for not having tidied up the house, although I had been working all morning and she had done nothing.",anger,sadness,0.4544300138950348,False,0.1826,0.4544,0.1428,0.0402,0.0664
+"When I had to move away from home to study, and I knew that I would not be coming back home for a long time.",sadness,sadness,0.5920486450195312,True,0.0746,0.592,0.0373,0.1533,0.0413
+"My sister had to undergo a very complicated operation, her eyesight was at stake.",fear,sadness,0.46811988949775696,False,0.0422,0.4681,0.1552,0.1987,0.0612
+"When I come home in the evening, the first thing I do is to sit down and smoke a cigarette. One day I found the flat in a totally desolate state. My girl-friend had wanted to tidy up but had not finished.",anger,sadness,0.4967728555202484,False,0.1451,0.4968,0.0496,0.0833,0.0676
+When I was appointed by the Ministry of health to join the teaching staff of one of the medical colleges.,joy,joy,0.6439335942268372,True,0.6439,0.0414,0.0314,0.0534,0.0446
+After a motor accident (I was the frong-seat-passenger) I spit blood.,fear,disgust,0.4506858289241791,False,0.0407,0.0504,0.3282,0.0856,0.4507
+Death of my grnadfather after having been in hospital for so long with cancer of the Oesophagus.,sadness,sadness,0.3936484754085541,True,0.1425,0.3936,0.111,0.082,0.1912
+In a discussion the leader wanted to stop because she was of the opinion that we were not involved and she misjudged our reactions as negative. We however only posed several questions which she couldn't answer.,anger,surprise,0.2556306719779968,False,0.0664,0.1966,0.1582,0.1755,0.1477
+"When, after having cleaned up the kitchen, two hours later I saw that there was a big mess. It irritated me very much.",anger,anger,0.793624997138977,True,0.0128,0.0672,0.7936,0.0299,0.0642
+"1976, Soweto uprising in South Africa and the racist Gout's reaction to the students demands concerning the educational system.",sadness,disgust,0.6297792792320251,False,0.0525,0.0504,0.1206,0.0784,0.6298
+I was neglected undeservedly.,anger,sadness,0.7461647391319275,False,0.0314,0.7462,0.0998,0.0288,0.0578
+My fiancT's family was adopting a 5 years old boy. I felt myself close to him as I never felt before. After some time his mother demanded the care of the kid and we were obliged to send him back.,sadness,joy,0.7101239562034607,False,0.7101,0.0815,0.0259,0.0378,0.0345
+"When a teacher though pretending to be a highly cultivated teacher and a man, slapped a classmate of mine in the face quite undeservedly.",anger,disgust,0.45956188440322876,False,0.039,0.04,0.3316,0.0459,0.4596
+Obscene phone call where the person knew my name.,fear,disgust,0.7546713948249817,False,0.033,0.0288,0.0993,0.0399,0.7547
+I went to a fair where a guy who was drunk kept bothering me and in the end I got really angry.,anger,anger,0.8608378171920776,True,0.0144,0.0366,0.8608,0.021,0.047
+I was seriously injured in a road accident. The very first steps I took with only one crutch to support me I felt so good. I enjoy being alive.,joy,joy,0.8953232169151306,True,0.8953,0.0254,0.0159,0.0154,0.0187
+Joy for me is when all my family gather around home for special occasions as Christmas etc. It really gives me joy to see my family and relatives and to observe natures productivity process which have been going on for centuries.,joy,joy,0.8912452459335327,True,0.8912,0.0214,0.0182,0.0165,0.0211
+When I saw a dead body in the mortuary I became afraid and I was filled with fear.,fear,fear,0.5028688907623291,True,0.0383,0.249,0.0602,0.5029,0.062
+"Before Uni started, I had to leave home and take up residence in Brisbane (the ""big smoke"") leaving home, my family, and moving to such a big place was quite intimidating at first, and I was anxious about it.",fear,fear,0.5570766925811768,True,0.0532,0.1128,0.0722,0.5571,0.07
+My mother was very angry with my little sister and told her to put her hands on the table in order to beat her hands up. She forced by means of her power.,disgust,anger,0.8424937725067139,False,0.0145,0.0347,0.8425,0.0214,0.0667
+"In a lift a drunken, fat and untidy man tried to make advances at me.",disgust,disgust,0.5532662868499756,True,0.0394,0.0705,0.2165,0.0516,0.5533
+"When I had to eat scraps from a dust-bin, because of a bet.",disgust,disgust,0.27292168140411377,True,0.0626,0.2156,0.1636,0.192,0.2729
+The emotion came when a certain boy opened my locker without my knowledge.,anger,surprise,0.46128830313682556,False,0.192,0.1863,0.0447,0.0649,0.0507
+When my boyfriend once again told me that he loved me after a period in which he felt very depressive.,joy,joy,0.383745938539505,True,0.3837,0.3468,0.0485,0.0491,0.0503
+Someone signed up for a workshift at the co-op where I live and she did not want to work the switchboard. I became very angry. She had mentioned earlier that she wanted and needed the workshift to me so I did not sign up.,anger,anger,0.8638301491737366,True,0.0132,0.0487,0.8638,0.0232,0.0305
+"A close friend first said he accepted an agreement, but later used that agreement as a reason for attacking me.",anger,surprise,0.2511416971683502,False,0.0995,0.1648,0.1702,0.1497,0.1647
+"When I was caught by the police and was kept with a group of delinquents, which added to my fear of being shut up. I was afraid of the people near me and the future consequences.",fear,fear,0.5455132126808167,True,0.0385,0.1386,0.0685,0.5455,0.1395
+"The teacher of one course gave me 10 questions with sub-questions going from a to e for each question. She asked me to do all this in one and a half hours. It involved a lot of describing and explaining and even though I knew all the answers, I could not finish the work.",disgust,joy,0.38617685437202454,False,0.3862,0.1547,0.0433,0.0674,0.0553
+Watching a horror film.,fear,disgust,0.3667401075363159,False,0.1837,0.0936,0.0779,0.1404,0.3667
+"My ex-boyfriend began to date my best friend. After they had been seeing each other, I found out that he had been sleeping with another girl, without my friend knowing, I told my friend what he had been doing behind her back.",anger,sadness,0.3520776331424713,False,0.1252,0.3521,0.079,0.1357,0.0705
+An hour before receiving the certificate results I was very frightened. When I saw others crying I felt very tense and as time went by my fear grew.,fear,sadness,0.4848312735557556,False,0.034,0.4848,0.0789,0.2741,0.0413
+"A time when, as part of my work, I was sent out actually sort of volunteered to run an errand for someone who had no authority to send me out and the address was very far especially on foot and turned out to be incorrect too. The whole trip was a waste.",anger,sadness,0.3358263373374939,False,0.0659,0.3358,0.1885,0.0997,0.1411
+"When I was a child, one day while playing, I fell up to my waist in mud.",disgust,sadness,0.4900825619697571,False,0.0623,0.4901,0.135,0.0962,0.1091
+Heated discussion with spouse concerning new house.,anger,disgust,0.4170360267162323,False,0.0749,0.0812,0.2158,0.1049,0.417
+My roommate messing up our room.,disgust,disgust,0.3902159333229065,True,0.044,0.0777,0.3378,0.0871,0.3902
+This was the worst incident of my hostel life. I was insulted by a close friend of mine on the eve of the New year and it totally spoiled my New year's night.,anger,disgust,0.44540396332740784,False,0.0201,0.0313,0.4382,0.0252,0.4454
+When my beloved uncle was shot dead by relatives.,sadness,sadness,0.29989203810691833,True,0.2037,0.2999,0.0865,0.1158,0.151
+A girl who also hires a room in the house where I live always tries to make a quarrel with everyone available she disgusts me.,disgust,disgust,0.8382406830787659,True,0.0156,0.0171,0.0943,0.0179,0.8382
+When I recently got a very positive answer from a clinic telling me that they would willingly assist and collect data for me for a clinical pilot study.,joy,joy,0.753779947757721,True,0.7538,0.0221,0.021,0.0269,0.0243
+I was angry when my abilities of a singer were underestimated.,anger,anger,0.9065630435943604,True,0.0111,0.022,0.9066,0.0166,0.0261
+"I was very sad when I got the XIIth standard results, when I got low marks as compared to my friend and I could not get admission to courses like medicine.",sadness,sadness,0.8708932995796204,True,0.0246,0.8709,0.038,0.0219,0.0244
+"""Boy, you have been admitted to the medicine school and your uncle is coming back fron Canada next week,"" my father told me and it was a happy moment.",joy,joy,0.8377280235290527,True,0.8377,0.0273,0.0183,0.0199,0.0205
+ I have not felt this emotion yet.,fear,surprise,0.35588133335113525,False,0.0943,0.2622,0.0658,0.166,0.0558
+Some people not cueing in the dining hall.,disgust,disgust,0.36914846301078796,True,0.0725,0.1456,0.1062,0.1812,0.3691
+When my cat ran under a car and came home wounded. He could hardly walk. I didn't dare to go to a veterinarian because I was afraid he would kill him.,fear,fear,0.3306119441986084,True,0.0437,0.078,0.1102,0.3306,0.1581
+A group of youngsters dressed in fads talked foul language on a bus. They also insulted the pedestrians on the road and were impolite to the passengers of the bus.,disgust,disgust,0.8288425207138062,True,0.023,0.0171,0.0832,0.0223,0.8288
+When I realized that the person I was courting hadn't been really by my side for a long time already. He had deceived me and I let him deceive me.,anger,surprise,0.3300117254257202,False,0.0834,0.2697,0.1126,0.1236,0.0807
+When I found that my ability to do ordinary work was worse than my fellow mates.,sadness,sadness,0.6477306485176086,True,0.0387,0.6477,0.1025,0.061,0.0944
+I was watching a movie alone - it was a horror movie. The music was a deep pulsing type - not really music. And a light flashed on and off. It was in the complete darkness of a movie theatre that was almost empty.,fear,surprise,0.30455607175827026,False,0.123,0.2988,0.0722,0.0858,0.1156
+Misunderstood by friends.,anger,disgust,0.708573043346405,False,0.0259,0.0555,0.1327,0.0364,0.7086
+I felt it when I saw our headmaster blushed ingratiating himself with high ranking officials.,disgust,joy,0.5753557682037354,False,0.5754,0.0593,0.0349,0.0439,0.0455
+"I was alone in my parents' house, having made plans to spend the afternoon with a lover (plans which the lover cancelled), watching a movie and considering my life and circumstances - pressures of examinations in particular.",sadness,sadness,0.5516884922981262,True,0.2226,0.5517,0.0381,0.059,0.0569
+I felt disgust when I saw a dead animal on the roadway.,disgust,disgust,0.8690570592880249,True,0.0194,0.0268,0.0505,0.0175,0.8691
+"I was in a train when a woman started talking loudly and attracting everybody's attention. The worst thing was that she was discussing something, about which she knew nothing, with another person.",disgust,sadness,0.26333025097846985,False,0.0444,0.2633,0.216,0.1537,0.186
+I gave my mom a gift she wanted for years. I raflected her joy.,joy,joy,0.8848363757133484,True,0.8848,0.0241,0.0151,0.0156,0.0178
+When my girlfriend of two years told me it was all over.,anger,joy,0.4776604473590851,False,0.4777,0.1292,0.0465,0.0586,0.0526
+When I first suffered from syphilis.,sadness,sadness,0.42126744985580444,True,0.0698,0.4213,0.0815,0.1276,0.2074
+Doing anatomy alone for the first time.,fear,joy,0.5277406573295593,False,0.5277,0.0606,0.036,0.0499,0.0696
+One night I and my friends went to the cemetery. We stopped the car in front of the wall and suddenly the grave digger appeared over the wall looking like a ghost. I was already afraid and almost died.,fear,sadness,0.27334412932395935,False,0.0893,0.2733,0.0542,0.246,0.082
+One night I was lying in my bed awake but I had my eyes closed. I saw figures with terrible faces and black frocks bending over me and touching me. I opened my eyes but I could still see them. I had the feeling that somebody was in the room. It was terrible. Only when I turned on the light I was able to go to sleep.,fear,sadness,0.4878782629966736,False,0.0821,0.4879,0.0679,0.0882,0.0844
+Not winning a medal in the swimming contest.,sadness,sadness,0.2525255084037781,True,0.0631,0.2525,0.1957,0.1379,0.202
+"When I was 9 years old, I got a cat, but after 3 days he died. I was very sad, because I had nursed him and taken him to the veterinary's - but in vain. Although I had had him only for a short time I had liked him very much.",sadness,sadness,0.6075091361999512,True,0.1825,0.6075,0.0416,0.0402,0.0506
+"I had an implicit agreement with my sister about meeting her, however she had not understood the situation the same way so she did not turn up.",anger,surprise,0.4593617916107178,False,0.1373,0.1662,0.0456,0.1481,0.0435
+I broke a window of a neighbouring house and I feared my mother's judgement and action on what I had done.,fear,fear,0.4723184406757355,True,0.0391,0.1364,0.1105,0.4723,0.0691
+After the accident which I described in SHAME. I came to myself and saw how terrible everything looked like. I disgusted myself and everything I saw.,disgust,disgust,0.8069512844085693,True,0.0203,0.0284,0.107,0.0167,0.807
+"I was jogging in the forest, in the central park area, when I saw a man hiding behind a tree. I got frigthened, turned around and ran out of the forest.",fear,surprise,0.2749170660972595,False,0.1406,0.2022,0.0999,0.1722,0.1101
+"Yesterday, I was just about to cross the road when a country guy who was ahead of me spat out a mouthful of betel juice on the road. It was very windy and had I not checked my speed I would have had a very good shower of his saliva. Though I was not angry, I felt that these people were very indecent.",disgust,anger,0.5720523595809937,False,0.0404,0.1445,0.5721,0.0861,0.0707
+My boyfriend decided to make an end to our relationship.,sadness,sadness,0.669402539730072,True,0.0969,0.6694,0.0613,0.061,0.0603
+ When I do not get any co-operation from my friends/partners.,anger,fear,0.4783184826374054,False,0.0844,0.1852,0.0983,0.4783,0.0666
+When I was told that I had not been successful in getting the job I had been expecting. I was sure that I was sufficiently qualified.,sadness,surprise,0.4286080002784729,False,0.4139,0.0467,0.0268,0.0561,0.028
+The stories about the way my grandmother treated my mother.,anger,joy,0.4984825551509857,False,0.4985,0.1025,0.054,0.0558,0.1326
+I had a dream in which I was an African elephant.,fear,joy,0.6021649837493896,False,0.6022,0.0513,0.029,0.045,0.0494
+To be kissed by soembody I didn't expect to.,disgust,surprise,0.6719359159469604,False,0.1609,0.0461,0.0307,0.0424,0.048
+"Once when I was playing table tennis I was already sure that I would win , but at last I lost the game.",anger,sadness,0.30175501108169556,False,0.2978,0.3018,0.0491,0.0985,0.0491
+The lift of Stockholm central station stank of vomit and urine.,disgust,disgust,0.7367120385169983,True,0.0481,0.0397,0.0882,0.042,0.7367
+When I learnt that a friend of mine had talked about me to another friend and had said wrong things about my abilities and attitudes. I was very angry.,anger,anger,0.8782508969306946,True,0.0128,0.041,0.8783,0.0187,0.0299
+"The week before I entered to army, when we were being selected. During 5 days I had to pass 10 hours a day waiting for the answer, which at last was the worst. The fear of being convoked, of hearing the fated phrase, was constant.",fear,sadness,0.562639594078064,False,0.0714,0.5626,0.0595,0.1521,0.0574
+ Do not remember any incident.,disgust,sadness,0.2625146210193634,False,0.0749,0.2625,0.1037,0.1761,0.1244
+My dog died of a cerebral tumor.,sadness,sadness,0.37956950068473816,True,0.1453,0.3796,0.1045,0.1001,0.1664
+When my brother gave me a watch.,joy,joy,0.5125762224197388,True,0.5126,0.096,0.0385,0.0804,0.0638
+"When I finished my exams after 12th Grade, I was worried about getting a T.E. Score high enough for Physiotherapy. When I found that I had been accepted I was ecstatic, or more appropriately, could jump for joy.",joy,joy,0.755002498626709,True,0.755,0.0353,0.0184,0.0391,0.0216
+When I found my baby whipped by my Auntie. I was really sad and up to this moment my sadness is still on.,sadness,sadness,0.8191762566566467,True,0.0598,0.8192,0.0359,0.0295,0.0244
+The first time that I saw a dead person. This was when I started my gross anatomy practicals.,fear,surprise,0.576886773109436,False,0.2056,0.0611,0.04,0.048,0.0684
+When I was told that I had no right to control my lover.,disgust,surprise,0.2968181371688843,False,0.1137,0.2774,0.1089,0.1287,0.0744
+I wrote an assignment and was given less marks than a friend with whom I had previously discussed the assignment.,anger,sadness,0.32506027817726135,False,0.2246,0.3251,0.0453,0.0829,0.0759
+It happened that I was alone - with no contacts with friends.,sadness,sadness,0.5767682790756226,True,0.0767,0.5768,0.0489,0.062,0.0533
+After a difficult exam. When I had not hoped to take it and had got a high mark. When you present someone with something and he feels glad.,joy,joy,0.8552693724632263,True,0.8553,0.0375,0.0192,0.0229,0.0206
+I was very angry one day when my husband ignored me and slept on a separate bed. He had no reasons to doubt me or to neglect me and I had never imagined that he could do such a thing.,anger,anger,0.8446357250213623,True,0.0128,0.0671,0.8446,0.0214,0.0285
+"Seeing a friend ""making love"" to a high school girl. I accidentally was dragged into this room where the happenings had occurred. I was disgusted at the reality.",disgust,disgust,0.8258478045463562,True,0.0164,0.0175,0.1017,0.0163,0.8258
+ The same as in guilt.,sadness,sadness,0.3580324649810791,True,0.133,0.358,0.0966,0.1208,0.162
+When I was reading a book. It had nothing to do with the book itself but with the disagreable smell of the pages of the book.,disgust,disgust,0.37786856293678284,True,0.0647,0.2563,0.1079,0.0835,0.3779
+When I got home I found that the electrical supply had been disconnected despite my having paid ZESCO the full bill a few days earlier.,anger,surprise,0.36854928731918335,False,0.0949,0.2823,0.0679,0.1305,0.0558
+A friend of mine travelled very far. I miss her but feel joy too because fer life is taking the right direction as she wants. So I feel joy for her mainly.,joy,joy,0.8817312121391296,True,0.8817,0.0325,0.0166,0.0196,0.018
+I felt sad when a thief stole all the clothes from my friend's cupboard at school (boarding).,sadness,sadness,0.8651964068412781,True,0.0304,0.8652,0.0299,0.0272,0.0256
+"Waiting for a bus not coming for a long time, and the bus drivers were having a long lunch.",disgust,sadness,0.24699971079826355,False,0.2072,0.247,0.0615,0.1623,0.1091
+I received a letter from my college telling me that I would not be allowed to sit for the exams because of my low attendance in class and the bad experience in the terminal exams.,fear,sadness,0.3443426489830017,False,0.0961,0.3443,0.1544,0.1784,0.0784
+"When my elder brother, who had gone abroad to study for six years, came back home safe and in good health.",joy,joy,0.8320735096931458,True,0.8321,0.0419,0.0175,0.0224,0.0215
+I felt disgust when I saw a friend walking in stagnant water without putting on gum boots.,disgust,disgust,0.867081344127655,True,0.0183,0.0272,0.0552,0.0165,0.8671
+"When my brother got very low marks in the exams, I was very angry. I put my studies aside to help him, as every time my brother does badly at school, my family members blame me as well.",anger,anger,0.86955326795578,True,0.0118,0.0492,0.8696,0.019,0.034
+Failing an examination.,sadness,disgust,0.2677832543849945,False,0.0764,0.1336,0.1702,0.2432,0.2678
+When I had to walk home in the dark for the first time. ,fear,surprise,0.30887261033058167,False,0.2496,0.2426,0.0475,0.0811,0.0703
+I was at the seaside and my brother disappeared for a couple of hours.,fear,sadness,0.6841058731079102,False,0.0664,0.6841,0.046,0.0787,0.0481
+I was scolded by my mother for no reason.,anger,anger,0.4287124574184418,True,0.0311,0.0687,0.4287,0.0288,0.4003
+You told me psychology can help people to be happier.,joy,joy,0.788282036781311,True,0.7883,0.0326,0.0238,0.0301,0.0392
+Relative's death.,sadness,sadness,0.41984158754348755,True,0.1362,0.4198,0.0796,0.1107,0.1182
+People who discriminate other people disgust me.,disgust,disgust,0.9060679078102112,True,0.0157,0.0143,0.0343,0.015,0.9061
+"My brother and I were driving to Brisbane when he drove back onto the road, perhaps cutting off another car but not noticeable - this driver did his best to drive us off the road for about 1/2 an hour.",fear,joy,0.4205254018306732,False,0.4205,0.0759,0.0342,0.0849,0.0402
+"My 21st birthday celebration, when I cut the cake and received the presents.",joy,joy,0.8356820940971375,True,0.8357,0.0247,0.02,0.0187,0.027
+I felt joy when my two twin sisters were born.,joy,joy,0.8947616815567017,True,0.8948,0.027,0.015,0.0159,0.0171
+"After being depressed because of a very bad relationship, my first love called me and told me that he would always care for me no matter what I did.",joy,joy,0.6220211982727051,True,0.622,0.1602,0.033,0.0446,0.033
+When I felt lack of aid from close friends.,sadness,sadness,0.8321303725242615,True,0.0367,0.8321,0.0328,0.0399,0.0261
+I went to visit a friend in hospital. He was going to be operated the next day. I was afraid that they would not let me in and I did not know what his reaction would be on seeing me.,fear,fear,0.4623227119445801,True,0.0616,0.1539,0.0351,0.4623,0.0452
+"My best friend started moving out with my boyfriend. When I heard this my heart sank because I didn't expect that my own good friend could do such a thing, so I got angry.",anger,anger,0.8533774614334106,True,0.0133,0.057,0.8534,0.0257,0.0258
+I felt dusgust with a self-iterested person who ruined the life of another by means of utterly unfair methods.,disgust,disgust,0.43755853176116943,True,0.0312,0.1742,0.2804,0.0377,0.4376
+"I was in a dancing-tavern and the atmosphere was one of waiting for the end of the world. Suddenly people began dancing wildly, inspired by the band. An unbelievable experience : wonderful that even Finns sometimes flare up and forget to think ""what others are thinking of me"". It was delightful to dance to one's heart content.",joy,joy,0.7724379301071167,True,0.7724,0.0301,0.0238,0.0248,0.0375
+Crossing a street of several ways the cars began to move and I thought that I was going to be trampled.,fear,fear,0.35404732823371887,True,0.0614,0.1552,0.087,0.354,0.1232
+"After having been ill, when I was coming back to the hostel, I felt very sad leaving home.",sadness,sadness,0.8691391944885254,True,0.0344,0.8691,0.0249,0.0249,0.0242
+The day I encountered a queer mamba face to face in a chunk of leaves behind our house.,fear,surprise,0.30533090233802795,False,0.1116,0.1517,0.0798,0.0919,0.2596
+"When I was deputy manager during the Summer, certain deputies took liberties, more than what was normal.",anger,joy,0.4022141993045807,False,0.4022,0.0999,0.0519,0.0689,0.0963
+I was driving and a deer suddenly appeared in front of the car when there was a lot of traffic behind me.,fear,surprise,0.6269673109054565,False,0.0826,0.0536,0.0485,0.1362,0.0521
+"I wanted to go out to walk but I didn't know either where or with whom, suddenly an invitation appeared.",joy,surprise,0.6769428849220276,False,0.0624,0.0644,0.0327,0.1271,0.0364
+I experienced it when I was accepted at the Medical Higher Institute.,joy,joy,0.5513322353363037,True,0.5513,0.0572,0.0281,0.0407,0.0459
+"Disagreements with mother. When I moved from KankaanpSS, she had promised to help me move but broke her promise because of some hindrance. ",anger,sadness,0.40755802392959595,False,0.0353,0.4076,0.2656,0.1304,0.1024
+"When I watched a report about El Salvador on TV, I saw people who had been murdered by terrible methods.",disgust,surprise,0.25405776500701904,False,0.1156,0.2009,0.1092,0.1099,0.2103
+"A relative, whom I like very much, left for the United States.",sadness,joy,0.6803955435752869,False,0.6804,0.087,0.0316,0.0373,0.046
+When I fell crazily in love with a beautiful girl and she returned my love.,joy,joy,0.655920684337616,True,0.6559,0.1204,0.0296,0.0311,0.0315
+My girlfriend left the house in which we lived together a few months ago. This made me very sad.,sadness,sadness,0.8693307638168335,True,0.027,0.8693,0.034,0.0233,0.0244
+Can think of no time that I have felt fear.,fear,fear,0.6372368931770325,True,0.0419,0.1013,0.0462,0.6372,0.0509
+Pictures of Nazi extermination camps on a T.V program.,disgust,disgust,0.33542972803115845,True,0.195,0.1243,0.1008,0.1094,0.3354
+"That afternoon I received two messages informing me, one that my brother was in a coma in the U.T.H suffering (kidney disease) and two, that my uncle met with an accident on his way to the hospital á to see my brother.",sadness,surprise,0.3867871165275574,False,0.164,0.1428,0.0717,0.1806,0.0541
+"When I heard that there had been some women raped at uni, just near where I usually park my car and walk by myself at night. Although I wasn't in danger it unnerved me for days and I was fearful whenever walking through the area.",fear,fear,0.5124791860580444,True,0.0375,0.1126,0.0541,0.5125,0.0743
+When someone accuses me without reason and is not willing to listen to me.,anger,anger,0.3177354633808136,True,0.0346,0.0523,0.3177,0.2589,0.2797
+The computer at school had left out my name along with four others and I had no rights for one year. So I was happy to find my name on the medical schhol list.,joy,joy,0.8598531484603882,True,0.8599,0.0373,0.0176,0.0183,0.0195
+"Fear is an emotion that I experience very often. Naturally this is during exams and subsequently while waiting for the results. However there is one occassion when I was paralyzed with fear. This was when I was doing my M.A.-I, and we had a series of student lectures. I was one of the participants and my lecture happened to be the opening lecture. I had been confident all morning, about twenty minutes before the lecture, my confidence started failing me. I felt my heart go cold, my lips go dry and I was really paralyzed. This incident of fear is still fresh.",fear,surprise,0.32097136974334717,False,0.2816,0.1334,0.0495,0.1292,0.0853
+"I felt fear when once I was asleep and dreamed that I was dying asfixiated by a cardiac attack, I was afraid and woke up desperate. Altough I wasn't afraid of death I was afraid.",fear,fear,0.584807276725769,True,0.0402,0.1576,0.0373,0.5848,0.059
+It was some years ago when one evening some people came home and told us my father was badly injured in an accident.,fear,surprise,0.3955900967121124,False,0.2426,0.156,0.062,0.0792,0.0646
+A very close friend of mine died. I read it in the newspaper. I didn't know what to do and thought about it the whole day.,sadness,sadness,0.36172211170196533,True,0.2457,0.3617,0.0387,0.0678,0.0569
+Saw some girls dressed up like Americans,disgust,disgust,0.2716802656650543,True,0.2186,0.1095,0.0873,0.0863,0.2717
+"After a meeting ended we started talking about when we would have the next discussion ( I had many tests the coming week and could not have a meeting in between, I thought that they would understand this as they had always done). They did not understand my problem and thought that I should not have so many other activities. Their reaction made me burst into tears.",sadness,surprise,0.38245972990989685,False,0.1517,0.2113,0.0541,0.1329,0.0675
+After a long time I saw my boy-friend again. ,joy,joy,0.5764120221138,True,0.5764,0.1356,0.0325,0.0342,0.035
+My father died. I was away at the time and did not know until two days after.,sadness,sadness,0.6261357069015503,True,0.0611,0.6261,0.0425,0.0957,0.038
+"Summer, heavy rain, storm - I was standing with my face stick to the window: the childhood, something was going away forever this summer, I was leaving my home, I was going to study in another town, for the first time I was leaving my parents, friends, I had to manage myself, a long and loved period of my life was over - I was crying.",sadness,joy,0.386727511882782,False,0.3867,0.3049,0.0498,0.058,0.0675
+"Attitude to some manners of dealing and some ""sanctioned"" relations.",anger,disgust,0.5908246636390686,False,0.1257,0.0562,0.0622,0.065,0.5908
+I could have been killed by a falling object.,fear,surprise,0.21740438044071198,False,0.0953,0.172,0.1673,0.1624,0.1856
+"A friend was unpunctual, we wanted to prepare ourselves for an examination.",anger,joy,0.5707259774208069,False,0.5707,0.0645,0.0274,0.0641,0.0515
+"In the student's union there was someone who took the photocopies of two large volumes. I asked him to let me take a few, he refused it for an acceptable reason. ",anger,surprise,0.3998924195766449,False,0.2626,0.1169,0.052,0.0751,0.0936
+When another fellow worker decided to leave the company. We had been very close and we would not be able to work with eachother any longer.,sadness,sadness,0.5756427645683289,True,0.1623,0.5756,0.0412,0.08,0.0398
+This was when I found out that a cousin of mine had taken away my trousers without my consent.,anger,surprise,0.5974565744400024,False,0.0661,0.1066,0.0761,0.1073,0.0465
+When my mother got a terrible beating from my father. It was so bad that she fainted and it was only then that my dad realized how bad it was.,disgust,sadness,0.5798755884170532,False,0.0585,0.5799,0.1182,0.0571,0.0632
+"At the weekend I wanted to be absent from school because of a sports event, but my teacher refused to give me the day off because he didn't like me.",anger,sadness,0.5018645524978638,False,0.0496,0.5019,0.1251,0.1313,0.1121
+"When my husband lied to me, tricked me and when I had to leave my home.",sadness,anger,0.31803762912750244,False,0.0506,0.1612,0.318,0.1054,0.289
+My parents do not like my friend and told me to stay away from him.,anger,fear,0.3444986939430237,False,0.0435,0.1508,0.2052,0.3445,0.1597
+As a result of breaking the indicator light as mentioned for guilt.,fear,anger,0.29686006903648376,False,0.0442,0.2658,0.2969,0.1191,0.2036
+"Motorcycle accident with two people involved, running off the road. Broke an arm, only.",fear,sadness,0.25708770751953125,False,0.0826,0.2571,0.1404,0.172,0.1842
+As a child - having a dog - it getting a disease and dying.,sadness,disgust,0.33158278465270996,False,0.0874,0.2662,0.1385,0.1016,0.3316
+"When I learnt that I had to repeat the first year, I found the solution immediately but was blocked by many difficulties.",sadness,surprise,0.40139827132225037,False,0.0777,0.2935,0.0867,0.1028,0.0379
+"Once, during a performance I did not sing the way I had to.",anger,surprise,0.337568074464798,False,0.0904,0.2721,0.0737,0.1303,0.0959
+When I met a friend that I hadn't seen for some time.,joy,surprise,0.38316747546195984,False,0.3492,0.1069,0.0359,0.0752,0.0496
+"When in a car accident where car was total wipe off (wipe out, or write off).",fear,disgust,0.36209002137184143,False,0.0796,0.1159,0.1733,0.1719,0.3621
+Succeeding in helping others.,joy,joy,0.8034467101097107,True,0.8034,0.0315,0.0267,0.0319,0.0428
+"When people are eating unsavoury (smacking, belching, speaking with food in their mouth, etc.).",disgust,disgust,0.7424583435058594,True,0.0278,0.0338,0.1064,0.0591,0.7425
+When programmes on violence or pornography are shown on T.V.,disgust,disgust,0.3688373267650604,True,0.1204,0.0738,0.1327,0.1681,0.3688
+When the relationship with my girlfriend broke up.,sadness,sadness,0.5593408942222595,True,0.0633,0.5593,0.1226,0.1002,0.0899
+At a social event when none of the guests would help to serve food or clear tables. It was all beneath them.,disgust,sadness,0.33384183049201965,False,0.0832,0.3338,0.1097,0.1051,0.2214
+On the T.V I saw a news feature on South Africa. A policeman attacked a group of black people with a whip.,anger,surprise,0.3152685761451721,False,0.1148,0.0645,0.13,0.1157,0.2597
+Saw people spitting in public.,disgust,disgust,0.7160926461219788,True,0.0383,0.0357,0.1227,0.0411,0.7161
+Disgust of drunkers and of blood.,disgust,disgust,0.8965111970901489,True,0.019,0.0177,0.0362,0.0145,0.8965
+I feel disgust with my first boyfriend who made fun of our love in an abominable way.,disgust,disgust,0.8853881359100342,True,0.0155,0.0201,0.0508,0.0149,0.8854
+I once failed a test miserably and my friend did very well and someone made a nasty comment while comparing me to my friend.,anger,disgust,0.4289740324020386,False,0.0843,0.0593,0.2296,0.0688,0.429
+Getting back with my boyfriend after a year away - apart.,joy,joy,0.5930391550064087,True,0.593,0.1252,0.0406,0.0674,0.0596
+I was in a camp and went out for a walk at night on my own. I lost my way and spent several hours looking for the camp.,fear,sadness,0.7134793996810913,False,0.0699,0.7135,0.0404,0.068,0.0433
+One day I was walking with my boyfriend. We met my ex-boyfriend and out of jealousy he started calling me names.,disgust,sadness,0.25875788927078247,False,0.1859,0.2588,0.1121,0.1011,0.1337
+When they told me that I had got a study grant.,joy,joy,0.45730724930763245,True,0.4573,0.0609,0.0349,0.0615,0.0391
+My boyfriend promised to take me to see a game of tennis and rang saying he was going to the pub with some of his friends instead.,anger,joy,0.6666690111160278,False,0.6667,0.0504,0.0323,0.0642,0.0415
+When my grandmother came to stay with us permanently as she is a very difficult person to stay with and when she started telling false stories about us to other people.,disgust,sadness,0.3554545044898987,False,0.1907,0.3555,0.112,0.1103,0.1014
+"I was sitting on an electric swing, suddenly the machine went out of order while I was still in the upward position.",fear,surprise,0.4195038974285126,False,0.1254,0.2126,0.0571,0.1204,0.065
+The housing council asked the city to cut 40 linden trees so that the inhabitants of the lower floors would have a view to the sea.,anger,joy,0.31146907806396484,False,0.3115,0.095,0.08,0.1181,0.1516
+Finding out I am not good looking.,sadness,fear,0.582822322845459,False,0.0336,0.1374,0.0933,0.5828,0.0533
+A bad smelling cucumber.,disgust,disgust,0.7526068091392517,True,0.0546,0.0453,0.0603,0.0443,0.7526
+"One evening I was watching the news on TV. Again they were talking about the danger of war. Suddenly I imagined what it might mean for me, for my friends, for the people close to me. I felt it a very near and possible event.",fear,surprise,0.44672730565071106,False,0.2809,0.0952,0.03,0.0998,0.0473
+"The day that the results of the college entrance examinations for the S. Paulo University were published and I didn't find my name on the list. Entering this University was my greatest wish, and the fact of not having succeded caused a great frustration, and not only sadness.",sadness,sadness,0.7403315305709839,True,0.0801,0.7403,0.0622,0.031,0.0329
+When my friend told me that he would come and meet me in a moment.,joy,joy,0.6850309371948242,True,0.685,0.0441,0.0223,0.0446,0.0302
+When I heard that my father had been involved in a car accident in Lusaka. This happened when he had gone to get the car which had been stolen in Lusaka.,sadness,surprise,0.5465742945671082,False,0.0979,0.1053,0.0578,0.1455,0.0468
+When the week for Exams came. I got afraid as to how I would tackle the questions.,fear,fear,0.7767550349235535,True,0.0232,0.0809,0.0274,0.7768,0.0342
+When I learned that my parents were going abroad and leaving me alone for a few years.,joy,surprise,0.29421883821487427,False,0.2574,0.2507,0.0367,0.1199,0.041
+When I watched a film about the problems of abandoned children (PIXOTE).,disgust,joy,0.40527111291885376,False,0.4053,0.0906,0.0508,0.0809,0.1183
+When my grandfather died.,sadness,sadness,0.5028205513954163,True,0.1638,0.5028,0.0508,0.0951,0.0719
+"My superior blamed me for some neglects at work in front of others. In fact, the task in question was not supposed to be done by me.",anger,sadness,0.4002186357975006,False,0.0378,0.4002,0.2516,0.0855,0.13
+Some colleagues decided to go out on a Saturday not inviting me to decide either the place nor the time.,sadness,surprise,0.2910616397857666,False,0.1791,0.2002,0.0611,0.1633,0.1053
+"In the traffic with a car, I nearly got crushed between a bus and a tram. The attention of other drivers saved me at the last moment.",fear,surprise,0.5965781807899475,False,0.2316,0.056,0.0359,0.0407,0.0391
+Fear of punishment for having broken an item of value to my parents.,fear,fear,0.5835985541343689,True,0.0345,0.0638,0.088,0.5836,0.1938
+Today I did a lot better on my architecture project than I expected.,joy,joy,0.7263169288635254,True,0.7263,0.0308,0.0235,0.0254,0.026
+My sister bkoke her leg.,sadness,joy,0.45034122467041016,False,0.4503,0.0529,0.0485,0.1161,0.0902
+After the interview for admission to the university and before the admission list was disclosed. I was scared that I would not be admitted and my fear lasted for quite some time. My fear disappeared only after the list was disclosed.,fear,fear,0.37240666151046753,True,0.0569,0.3222,0.05,0.3724,0.0468
+"While watching a movie, someone who was drunk started vomiting helplessly.",disgust,disgust,0.5588899254798889,True,0.0385,0.1026,0.19,0.0623,0.5589
+When I heard that my father had passed away.,sadness,surprise,0.38664665818214417,False,0.2054,0.1932,0.0403,0.1318,0.0427
+"When my grandfather died I was extremely sad. However my family members did not have any special feelings, they said that he was already 80 years old.",sadness,sadness,0.7287953495979309,True,0.0939,0.7288,0.0329,0.0432,0.0321
+"Recent break-up of seriors long-term relationship, helped along by would-be in-laws.",sadness,sadness,0.37564122676849365,True,0.2466,0.3756,0.0891,0.084,0.0829
+Death of a pet rabbit. We had to give it away because my brother became allergic to it. We gave it to a man who kept animals and lots of other animals for children to watch. We went to visit our rabbit. It was badly beaten by the other rabbits and eventually died.,sadness,disgust,0.3103365898132324,False,0.1247,0.2726,0.1292,0.0815,0.3103
+"When the results of the part I exams came out I felt tremendous joy in my heart. The results came out after a long period of worry and anxiety, so it gave me endless relief and joy.",joy,joy,0.8688730001449585,True,0.8689,0.0358,0.0155,0.0165,0.0163
+"I felt disgust with a lady teacher who used to nag, to mock, to interrupt everyone of my fellow students each time we had a class with her in our first year.",disgust,disgust,0.8877177834510803,True,0.0155,0.0189,0.0509,0.013,0.8877
+When I was looking for a job I felt a lot of fear but the fear was greater when I found it.,fear,fear,0.4836447834968567,True,0.0569,0.2574,0.0421,0.4836,0.0479
+This feeling was quite deep when my friend (girl) died in a car accident.,sadness,joy,0.5561433434486389,False,0.5561,0.1504,0.0354,0.0476,0.039
+One day my colleague misbehaved with me. I felt disgusted and thought to myself that he could only do this because I was a woman.,disgust,disgust,0.757903516292572,True,0.0182,0.0371,0.146,0.0177,0.7579
+When once again I drank too much and felt very rotten the morning after.,disgust,sadness,0.6374458074569702,False,0.0483,0.6374,0.0958,0.0379,0.1398
+When I was just to be divorced.,fear,sadness,0.3833766579627991,False,0.2929,0.3834,0.0559,0.0666,0.0864
+"In the morning, the cat of my landlady had vomited on the floor, near the staircase I take to go to the bathroom.",disgust,disgust,0.3401954472064972,True,0.0451,0.1597,0.2181,0.1572,0.3402
+"Attempted rape by 5 guys - held my arms behind my back and molested me, constantly threatening to beat me. Penetration did not occur as the driver of the car stopped that.",fear,disgust,0.3377339243888855,False,0.0729,0.1297,0.1281,0.0925,0.3377
+I have a horror of spiders and snakes. On a walk through the wood I saw the body of a slow-worm (without the head).,disgust,disgust,0.33424100279808044,True,0.0612,0.1021,0.1222,0.2427,0.3342
+When I was called for an Interview at Kamuzu College of Nursing.,fear,joy,0.4539167284965515,False,0.4539,0.0626,0.0412,0.0803,0.0597
+"I was coming home in a taxi with a fellow worker of mine. He was criticizing my earlier conduct towards him, which to my mind was unfounded. When I reached home, I ran out of the taxi and slammed the door.",anger,anger,0.40029796957969666,True,0.0368,0.1135,0.4003,0.0957,0.1947
+I felt angry when my friend told me that I had stolen her money.,anger,anger,0.8979713916778564,True,0.0121,0.0304,0.898,0.0181,0.024
+When I heard that my Uncle had passed away in a road traffic accident.,sadness,surprise,0.43002650141716003,False,0.1241,0.1549,0.0541,0.1865,0.0505
+My husband suddenly fell ill seriously and during the medical examinations we did not know what would follow.,fear,sadness,0.4440678656101227,False,0.0503,0.4441,0.0767,0.1284,0.05
+When I found out that someone close to me was flirting around.,disgust,surprise,0.3086357116699219,False,0.1014,0.151,0.0984,0.2063,0.1342
+"When, after a long time of searching I got my first job.",joy,joy,0.5415849089622498,True,0.5416,0.0687,0.0275,0.0435,0.0375
+A friend of mine told me that my boyfriend had been with another girl this Summer. We had been going out together for four years and we had not done so for the last three months. I could not believe it.,sadness,surprise,0.4675985276699066,False,0.1318,0.2025,0.0628,0.0804,0.0548
+"A class-mate urged me to carry out a particular protest along with him, and when the time came this fellow drew back while I had to face the situation.",anger,joy,0.6653834581375122,False,0.6654,0.0612,0.0266,0.0439,0.034
+"I felt very sad when I had to give up something that by right was mine and although I didn't get it, a kind of suvenir that people don't give you the right to have.",sadness,sadness,0.8461096882820129,True,0.0437,0.8461,0.0268,0.0278,0.0279
+"My mother had fallen down from a ladder when she had been gathering cherries. Her back was hurt. Just when I arrived, I saw people of the life-saving service giving her medical care.",fear,surprise,0.3683452606201172,False,0.276,0.1993,0.0446,0.0665,0.0453
+It was when my father was taken into detention by the CIDS for two years for a reason I don't know up to now.,sadness,sadness,0.28252550959587097,True,0.0737,0.2825,0.1058,0.2152,0.0839
+I felt sad with the two situations I described before. The cat and the school. Sadness was intermingled with the other feelings.,sadness,sadness,0.8526212573051453,True,0.0369,0.8526,0.0303,0.028,0.0301
+When I found out the CIA was mining Nicaraguan harbors.,disgust,surprise,0.39716482162475586,False,0.1393,0.1034,0.0716,0.1878,0.1008
+"In my penultimate job I was responsible of a sections with several employers, after several years of dedication I was dismissed by a new chef, saying that I was incompetent.",sadness,anger,0.4159111976623535,False,0.0564,0.2962,0.4159,0.0495,0.1293
+"During these Summer vacations a schoolmate who was not in my class went to Britain. Before he left, his classmates and some of us who were accquainted with him had a B.B.Q on the beach. When I arrived I saw that some people , who were not close friends of the departing person(person A), were playing mahjong. Some others were playing bridge and A had nothing to do, besides it was A who had prepared the food. Later when we wanted to talk and his classmates did not even have the decency to listen to him. They only asked him a few questions half-heartedly and then they talked on their own. Some of their conversation was against me and another classmate.",disgust,surprise,0.5198032855987549,False,0.2106,0.1002,0.0432,0.0686,0.0576
+When I saw my name in the newspaper and I knew that I entered at the University.,joy,surprise,0.429573655128479,False,0.4136,0.0413,0.0297,0.0452,0.0406
+My roommate boasting about her English lectures.,disgust,joy,0.588904082775116,False,0.5889,0.0585,0.0475,0.0495,0.1259
+When my father was very drunk and raging at home.,fear,anger,0.4057382047176361,False,0.0314,0.1739,0.4057,0.0509,0.2994
+Being invited out by a person I wished to get closer to. He telephoned and invited me to go out with him the next night.,joy,joy,0.6782230138778687,True,0.6782,0.0402,0.0267,0.0421,0.0346
+When my grandmother passed away.,sadness,sadness,0.6419776678085327,True,0.0922,0.642,0.0495,0.0783,0.0584
+A certain friend tried to push me off a seat in a very violent way for no apparent reason. It may be that he was excited about something.,anger,surprise,0.366005003452301,False,0.2668,0.0982,0.0624,0.1577,0.049
+I feel sad about an event I can not influence.,sadness,sadness,0.8725199103355408,True,0.0284,0.8725,0.0289,0.03,0.022
+Mad at my dad.,anger,anger,0.753150463104248,True,0.0195,0.0488,0.7532,0.0265,0.1282
+Two guys were fighting murderously and I feared that one of them would be killed.,fear,fear,0.49835580587387085,True,0.0584,0.0789,0.1323,0.4984,0.1295
+When I received the acceptance letter from UNZA. I had just come home from work when my kind sister handed me an enveloppe which I opened and was overcome with joy.,joy,joy,0.8467087149620056,True,0.8467,0.0317,0.0168,0.0172,0.0181
+China can not even give you good sound systems for an open lecture.,sadness,disgust,0.2772441506385803,False,0.158,0.0853,0.1475,0.1121,0.2772
+"When others let me down, fail to keep agreements.",anger,fear,0.3056170344352722,False,0.0581,0.293,0.1695,0.3056,0.0993
+Someone called me a disgusting nickname.,anger,disgust,0.8653178215026855,False,0.0228,0.0188,0.0505,0.0184,0.8653
+"I caught a ""peeping tom"" at my window when I was getting undressed.",anger,surprise,0.37681737542152405,False,0.0697,0.1058,0.0969,0.197,0.1538
+I met my best friend's husband with a prostitute.,disgust,surprise,0.30685433745384216,False,0.202,0.1367,0.0864,0.1081,0.1599
+"After having finished my B.Sc, I was struggling hard to continue my studies and had taken the M.SC exam. I was not sure that I would be selected in the written exam. When I saw my name in the selected candidates list I was overjoyed.",joy,joy,0.761854887008667,True,0.7619,0.0363,0.02,0.0217,0.021
+The man I am going around with gave me a very special present.,joy,joy,0.8842083215713501,True,0.8842,0.0206,0.0158,0.0166,0.0174
+Watching a TV documentary on seal clubbing.,disgust,joy,0.4922885596752167,False,0.4923,0.0641,0.0533,0.0789,0.1569
+When I was convinced that someonne had broken into my flat and I woke up and heard sounds that frightened me.,fear,surprise,0.4507378339767456,False,0.0783,0.1971,0.0598,0.1541,0.06
+When a friend left me and went back home for good.,sadness,joy,0.420756995677948,False,0.4208,0.3228,0.0419,0.0535,0.0481
+Deliberately provoked by someone close. Angered by the deliberation not the provocation.,anger,anger,0.5034886002540588,True,0.0248,0.0359,0.5035,0.0386,0.3398
+A good friend quitted me after he had behaved in a strange manner.,sadness,sadness,0.5985583662986755,True,0.1364,0.5986,0.1053,0.0413,0.0665
+Death of a parent.,sadness,sadness,0.2788689434528351,True,0.1021,0.2789,0.1345,0.1507,0.2472
+One time I was injured when I was playing football at School in Blantyre. I was brought to the hospital while my leg was totally swollen. The x-rays confirmed there was no fracture but collection of blood n the muscles. I feared when they started to incise the swollen part with surgical blade.,fear,fear,0.5922462940216064,True,0.0474,0.1229,0.054,0.5922,0.0651
+"When my boyfriend was changing his behavior there was something wrong, I felt sad, because it's desagreable when a relationship is ending.",sadness,sadness,0.8506084680557251,True,0.0264,0.8506,0.0432,0.0291,0.0306
+I found some worms in the food and I had obviously eaten some.,disgust,surprise,0.3427417576313019,False,0.2356,0.1267,0.0602,0.1126,0.1222
+When we forced a friend to chew a poisonous herb in primary school. His tongue was swollen and he told his mother about it. The mother reported it to the headmaster who threatened to expel us.,fear,disgust,0.3631669282913208,False,0.0474,0.091,0.3012,0.1231,0.3632
+When I was at the end-of-term party last week and had fun - was happy and sang and drank only soft drinks. It is possible to have a good time without alcohol.,joy,joy,0.8358710408210754,True,0.8359,0.0432,0.0215,0.0219,0.0305
+In broad daylight I saw an untidy old man pissing and playing with his penis in the middle of the town.,disgust,disgust,0.3898485600948334,True,0.0722,0.082,0.1722,0.0755,0.3898
+When I entered University.,joy,surprise,0.352682888507843,False,0.3096,0.1025,0.0482,0.1061,0.081
+Girls dressed like foreigners in the university.,disgust,disgust,0.482363760471344,True,0.1451,0.0814,0.0783,0.078,0.4824
+When I tried to explain to my child as to why there were magazines wiith naked girls on them at the kiosk.,disgust,surprise,0.3967406451702118,False,0.1397,0.1173,0.09,0.1259,0.1303
+When I was admitted to the Higher Institute.,joy,joy,0.5497143864631653,True,0.5497,0.0653,0.0322,0.0583,0.0567
+When I did bad on a chamistry midterm which I could have done well.,sadness,joy,0.2852271497249603,False,0.2852,0.1975,0.0717,0.1335,0.0981
+"When I saw a good male friend unexpectedly after a year, as I've just returned from overseas. I was feeling tired, looking a mess, and nervous.",fear,sadness,0.6931372284889221,False,0.0416,0.6931,0.0446,0.1335,0.0291
+When I won a position on the track-team for the trans-tasman games when I was eleven.,joy,joy,0.668603241443634,True,0.6686,0.0464,0.0281,0.0506,0.0472
+"A ""near-accident"" in a car, driving too fast on an icy road.",fear,disgust,0.35724008083343506,False,0.0519,0.1312,0.1952,0.139,0.3572
+My friend was badly hurt.,sadness,sadness,0.65507972240448,True,0.0343,0.6551,0.1676,0.0575,0.0472
+"The fear about my future : work, making ends meet and health. Coping.",fear,fear,0.3764031231403351,True,0.2174,0.2322,0.0428,0.3764,0.0765
+"Several weeks ago, I had problems with friends, I felt disgusted by a friend.",disgust,disgust,0.8273033499717712,True,0.0157,0.0258,0.0992,0.0155,0.8273
+I received a letter from a distant friend.,joy,joy,0.5419214367866516,True,0.5419,0.0998,0.0368,0.0519,0.0376
+"When I was walking at night, I saw fire suspended in the air and it was split into several segments by something I could not see. I suspected that it was witch-craft.",fear,surprise,0.3208175003528595,False,0.0823,0.1907,0.0709,0.2155,0.1198
+"I get angry when someone imputes on me things I never can do, naturally negative. Servility, ""connections"", impudence, traits that get me mad.",anger,anger,0.8864490389823914,True,0.0104,0.0205,0.8864,0.0216,0.0462
+"I spent a weekend in San Diego visiting my boyfriend Rob. We were at the airport and my plane was just about so leave. After saying goodbye, I boarded the plane. It was the hardest thing to do and it was a sad trip home.",sadness,sadness,0.7087085247039795,True,0.1224,0.7087,0.0391,0.0333,0.0427
+When the whole family gets together for a one week holiday. Everybody feels free and the trip is well planned. It works out well and we enjoy ourselves.,joy,joy,0.9017517566680908,True,0.9018,0.0196,0.0163,0.0163,0.0194
+When I red a report in the magazine VESA about an Iranian telling what she had lived in the prisons in Iran. I felt disgust about that people.,disgust,disgust,0.8070582151412964,True,0.0241,0.0431,0.0814,0.0226,0.8071
+When junior doctors returned to work after bunking them.,disgust,joy,0.642850399017334,False,0.6429,0.0916,0.0308,0.0499,0.0476
+ No response.,joy,surprise,0.5193027853965759,False,0.0621,0.1329,0.1063,0.092,0.0874
+"When I was at home alone, I felt a super-natural force, dangerous for me and the people close to me.",fear,sadness,0.39093485474586487,False,0.1976,0.3909,0.0417,0.1297,0.0841
+ Being close to another person.,joy,joy,0.40527307987213135,True,0.4053,0.1246,0.0449,0.1354,0.1425
+I was doing an experiment and was not getting the appropriate result despite the fact that I had repeated the procedure 4-5 times. Then finally I got it right by a stroke of luck.,joy,surprise,0.5528159141540527,False,0.2796,0.0578,0.0347,0.0356,0.0394
+A friend of mine was hurt as he thought that our relationship was not the same as before and something had gone wrong.,sadness,sadness,0.7447858452796936,True,0.0317,0.7448,0.0882,0.0664,0.0283
+When my kid brother broke my reading spectacles.,anger,sadness,0.22116024792194366,False,0.1229,0.2212,0.1707,0.1216,0.2207
+"One day when I was sitting in a not very crowded bus, a middle aged woman was standing beside me. The person sitting next to me got up to get off and this woman pushed me and occupied the seat. á Then she took off her shoes and put her feet on the seat.",disgust,surprise,0.3952963650226593,False,0.2883,0.1161,0.0496,0.0816,0.069
+My father recently having a heart attack - spending a few months in hospital.,sadness,sadness,0.3979974091053009,True,0.0903,0.398,0.0807,0.2581,0.0694
+"When I hooked a girl in Kitwe. She was very beautiful for my standards, a rare bird of this kind accepted me as a boyfriend.",joy,joy,0.7444568276405334,True,0.7445,0.0361,0.022,0.0294,0.0361
+When a friend didn't invite her own parents to her Graduation ceremony.,disgust,sadness,0.24901629984378815,False,0.1229,0.249,0.1093,0.1292,0.1846
+"A friend had a quarrel with the mother of her boyfriend because she and her friend decided to go and live together. She needed money for removal, then she made a great effort to reconcile.",disgust,sadness,0.34363245964050293,False,0.3357,0.3436,0.1001,0.064,0.059
+I was angry with a person who behaved terribly at a ball offending her relatives.,anger,anger,0.8851156830787659,True,0.0113,0.0196,0.8851,0.0154,0.0514
+"I deliberately avoided a person who I wanted to hurt, and who wanted to talk to me.",disgust,disgust,0.3161817491054535,True,0.063,0.1986,0.1058,0.1939,0.3162
+When I feel helpless after having tried to help someone without any result.,sadness,sadness,0.6520271301269531,True,0.0453,0.652,0.1119,0.1002,0.0542
+Good dinner on the National Day.,joy,joy,0.8547803163528442,True,0.8548,0.0218,0.0211,0.021,0.034
+When my mother treats me as a 10-year old boy.,anger,joy,0.28575998544692993,False,0.2858,0.1179,0.0746,0.2029,0.1876
+"I was supposed to be studying for my math midterm a few days ago, however, I fooled around with my roommate, and didn't start studying until 12:00 am. I was disgusted with myself.",disgust,disgust,0.8322280049324036,True,0.0177,0.0225,0.0826,0.0185,0.8322
+You ignored the fact that we could not hear you at the back.,sadness,surprise,0.2563374638557434,False,0.0844,0.2078,0.1796,0.0877,0.1841
+"In order to be admitted to my final examination, I had to pass two examinations. As I had not studied very much, I resigned myself to be left behind. Nevertheless I succeeded in these examinations.",joy,joy,0.33007317781448364,True,0.3301,0.2977,0.0493,0.0644,0.0523
+"This sounds really predictable and usual but it was absolutely heart-rending at the time. My first lover (I was 15) just rang up one day and announced that he had found another woman. I never saw him again and it hurt because I was positive that it was ""TRUE LOVE"" !!",sadness,joy,0.4687325954437256,False,0.4687,0.1118,0.0393,0.0517,0.032
+Finding out that I was deceived by a friend.,anger,fear,0.28640374541282654,False,0.0721,0.1445,0.1243,0.2864,0.1066
+When I made up with a girl-friend of mine after having been on unfriendly terms with her (my fault). I cried with joy that evening.,joy,joy,0.7338548302650452,True,0.7339,0.1157,0.0299,0.0247,0.0296
+"When I was taking my girlfriend out, she seemed to have taken her time.",disgust,joy,0.4836972653865814,False,0.4837,0.1218,0.0342,0.0642,0.0433
+I had left a student newspaper of the Chinese university on the table of the library. It had disappeared when I came back.,anger,sadness,0.5253282189369202,False,0.0964,0.5253,0.0719,0.0791,0.083
+A colleague asked me for some advice and as he did not have enough confidence in me he asked a third person.,anger,surprise,0.4058035612106323,False,0.3268,0.0855,0.0452,0.0928,0.0439
+"A quarrel with my mother because I thought she said very unreasonable things about me, that hit me strongly.",anger,anger,0.6227564811706543,True,0.0195,0.1052,0.6228,0.054,0.1601
+For about one year I had a rather bad relation with my father. Last Christmas Eve he invited me to stay withhim and I was very glad about it. It was a fine evening.,joy,joy,0.8296077847480774,True,0.8296,0.0458,0.0191,0.0213,0.0238
+I had gone to the hospital for my research and got late in reaching home. I feared that when I reached home there would be a quarrel because of my being late.,fear,fear,0.5910782814025879,True,0.0285,0.2066,0.0741,0.5911,0.0432
+"One day, when I was twelve years old, my brother took some slimy substance swimming on the surface of a pot of vinegar made of cider and threatened to throw it at me.",disgust,disgust,0.3894055187702179,True,0.0446,0.0508,0.3326,0.0987,0.3894
+My brother caught a spider and let his frog eat it.,disgust,surprise,0.33194825053215027,False,0.2083,0.0721,0.0752,0.1121,0.2004
+When my father was imprisoned for burning the house of his younger brother.,sadness,disgust,0.26496896147727966,False,0.093,0.1937,0.1984,0.1337,0.265
+When my beloved girlfriend got married to another person.,sadness,joy,0.5989612340927124,False,0.599,0.1192,0.0388,0.0564,0.0633
+Postgraduate students talking about girls stupid.,disgust,disgust,0.72728431224823,True,0.0407,0.0391,0.1085,0.0419,0.7273
+"Once our school class went skiing. On a steep slope a boy standing behind me lost his balance, fell down and drew me with him. I slided down the whole slope. At about 1 m distance from a tree I could stop.",fear,surprise,0.34792906045913696,False,0.2641,0.1323,0.0502,0.1214,0.0841
+"When I left a carnaval ball at 4 o'clock a.m. I was alone in a foreign city and I had to go back home, when a guy appeared and tried to ""catch me"".",fear,sadness,0.39317676424980164,False,0.1174,0.3932,0.0587,0.1361,0.0668
+Someone attacked me with a knife.,fear,disgust,0.4560217559337616,False,0.0522,0.0566,0.2085,0.0932,0.456
+Told by some people the class leader only choose his friends (not true).,anger,disgust,0.2319222092628479,False,0.1272,0.1607,0.0801,0.1974,0.2319
+"I did not do well in one of the subjects last term. I was afraid that I would fail. My result was a grade D, though it was not good I still passed. I felt more comfortable then. ",fear,joy,0.39138588309288025,False,0.3914,0.2902,0.0307,0.1053,0.0492
+"When I was accused of having impregnated someone's daughter, it was the girl's cousin who had done it. ",disgust,anger,0.2946332097053528,False,0.0758,0.1392,0.2946,0.1059,0.2471
+"At my Summer job, nobody looked after me in particular and I had to learn all on my own.",anger,sadness,0.4383520781993866,False,0.1759,0.4384,0.0616,0.1059,0.0705
+When my child was born.,joy,joy,0.6508274674415588,True,0.6508,0.0711,0.0296,0.0612,0.0563
+A story I heard recently about a baby dying after sexual abuse.,disgust,surprise,0.3449191749095917,False,0.2828,0.1056,0.063,0.1104,0.0932
+Being alone in the room at night.,fear,sadness,0.5042954683303833,False,0.0938,0.5043,0.0694,0.1,0.1534
+"In a film there was a scene in which a rat was sliding on a bed, leaving a trace of blood behind, finally it entered the mouth of one of the actors.",disgust,surprise,0.2786611020565033,False,0.1356,0.1135,0.097,0.146,0.2292
+I experienced this when my maternal grandmother passed away. She was the last of my grand parents to pass away.,sadness,sadness,0.46212607622146606,True,0.2438,0.4621,0.0397,0.0484,0.0394
+"A very good friend of mine had been away for three months. When we met again, we ran up to each other and embraced.",joy,joy,0.8372881412506104,True,0.8373,0.0328,0.0212,0.0184,0.0235
+"When I was accused by my brother of having stolen a 5 kwatcha note from my mother's bag. I was beaten up for this, the money was found later.",anger,anger,0.3811343312263489,True,0.0734,0.1498,0.3811,0.0782,0.2198
+I was with my girlfriend when some guys that I don't like made fuss at my girl.,anger,sadness,0.2830932140350342,False,0.1626,0.2831,0.1177,0.1449,0.1772
+When I was robbed in a bus.,anger,disgust,0.3109281063079834,False,0.0754,0.1574,0.183,0.1332,0.3109
+"I was joyful when I received a present (2 books and a pencil) from the headmaster in standard 6 because I had passed, I became No 1 and he said I was one of the pupils who had good behaviour.",joy,joy,0.8757014870643616,True,0.8757,0.025,0.0173,0.0168,0.0206
+"At the sight of an insect, such as the black-beetle.",disgust,surprise,0.3546240031719208,False,0.2847,0.0708,0.0533,0.1017,0.135
+Sometime ago I felt very angry when my mother wrote me telling me that my elder sister was messing up things at home by her internalised aggressive attitude towards parents and her husband.,anger,anger,0.8688012361526489,True,0.0126,0.0484,0.8688,0.0187,0.0333
+"After a long time (of no communication with him, physical illness and worry) my lover came to see me, when I least expected to see him.",joy,surprise,0.45222219824790955,False,0.3029,0.1251,0.0321,0.0513,0.0364
+"When I was a child I had a grass-parakeet I liked very much. His legs were crippled so that he could not move very fast. Once I came into the room, did not notice him and stepped on him. A few days later he died.",sadness,sadness,0.3110209107398987,True,0.189,0.311,0.0536,0.0761,0.0797
+Power cut made me unable to listen to the songs sung by my favourite pop star.,sadness,sadness,0.7136556506156921,True,0.0582,0.7137,0.0686,0.0474,0.0475
+"When I attended school, our class visited an institution for mentally and physically handicapped persons. Although I tried to control my feelings, I was disgusted.",disgust,disgust,0.8895758986473083,True,0.014,0.0169,0.0503,0.0137,0.8896
+"One day I was in the countryside with several friends, and we began to eat figs, after we were all full we noticed that all the figs were full of worms.",disgust,joy,0.5216505527496338,False,0.5217,0.0677,0.0397,0.0572,0.0681
+China winning the Asian Olympic.,joy,joy,0.4057805836200714,True,0.4058,0.0579,0.0707,0.0857,0.1143
+After my father's death.,sadness,sadness,0.45925140380859375,True,0.2263,0.4593,0.0527,0.0776,0.0719
+"I'm crazy about football. When my team lost a goal in the Paulist championship, and so it lost the classifications.",anger,anger,0.4212193489074707,True,0.0317,0.0686,0.4212,0.2884,0.1401
+When I spoke to my daughter and wished her luck for the examinations she was about to take.,joy,joy,0.8640245795249939,True,0.864,0.0269,0.0166,0.0208,0.0192
+"I won the first prize at the science fair, the first of the kind at school and I was only in form II then. ",joy,joy,0.5161997079849243,True,0.5162,0.0469,0.0315,0.0428,0.0518
+When going out I am threatened regularly by two punk-girls.,fear,anger,0.4917137026786804,False,0.0257,0.0295,0.4917,0.1844,0.2314
+I was angry when my friends said that I should not receive Nursing Science books because there was a rumour that I was intending to leave the college.,anger,anger,0.9050487279891968,True,0.0107,0.0215,0.905,0.0169,0.0288
+When my brother promised me money but he failed to fulfill the promise.,disgust,joy,0.27277079224586487,False,0.2728,0.252,0.055,0.0961,0.0572
+I had failed some subjects in mathematics.,sadness,sadness,0.4083084762096405,True,0.0808,0.4083,0.0864,0.101,0.0882
+When I left my boyfriend. I found another girl at his home but he did nothing to relieve the situation.,sadness,sadness,0.6626548767089844,True,0.0639,0.6627,0.0624,0.0528,0.0456
+My intimate girlfriend told me that her father was opposed to our relationship and had insulted my integrity.,anger,disgust,0.6220622062683105,False,0.0248,0.032,0.2538,0.0319,0.6221
+"Disgust - no. Maybe it is more precise to say revultion at a worm or a snake. But I mean it in a social aspect when somebody had behaved like a scoundrel to you, when by his actions he has made you change your attitude towards him but I thing this feeling the way I meant it, is not typical for the people interrelations.",disgust,disgust,0.2863413393497467,True,0.1259,0.1388,0.0962,0.1247,0.2863
+Talking to a close friend.,joy,joy,0.5507922172546387,True,0.5508,0.0822,0.0452,0.0906,0.0986
+"In the student kitchen that we share, somebody drank from my juice pot (one litre) so that I only got one glass out of the whole pot.",anger,joy,0.45524948835372925,False,0.4552,0.0783,0.0557,0.0721,0.1098
+When a friend of mine got drunk and started to blame and scorn my other friends and me.,disgust,disgust,0.5354951620101929,True,0.0295,0.0683,0.296,0.0355,0.5355
+One of my friends went and told another friend of mine that I was going abut with another guy in Lilongwe besides the one I had. She said I was seen with him hand in hand.,anger,joy,0.46552205085754395,False,0.4655,0.0987,0.0492,0.0819,0.0677
+When I had my first oral examination after a long time; especially one day before the examination when I had the feeling that I had not studied enough and had not enough time to make up for it.,fear,sadness,0.5305674076080322,False,0.1134,0.5306,0.0502,0.1027,0.0553
+When I received a message that my brother was seriously ill and was in hospital.,sadness,joy,0.3776150941848755,False,0.3776,0.1005,0.0388,0.1045,0.04
+I remember that when I was in school I saw a case of partiality - one of the teachers gave private coaching classes to some girls and she would give these girls extra attention in class and would ignore the others.,anger,surprise,0.23104670643806458,False,0.157,0.2236,0.0883,0.158,0.142
+I saw a man who had had a heart-attack and who was being treated for it. I feared that my own father could have been there.,fear,fear,0.47346171736717224,True,0.0548,0.1835,0.0466,0.4735,0.0584
+My Uncle was beaten by his troublesome son. He fell unconscious and gained consciousness after some time. That time I was at school; this news reached me through someone.,sadness,surprise,0.3919534385204315,False,0.264,0.2124,0.0421,0.0532,0.0362
+Sitting in the dorm when the guys were verbally reading letters in Penthouse.,disgust,disgust,0.30651021003723145,True,0.1887,0.1787,0.0926,0.0949,0.3065
+A teacher at my former secondary school forced my darling to marry him. The girl tried to refuse but her parents would not leave her alone.,anger,sadness,0.38218390941619873,False,0.0444,0.3822,0.2795,0.0758,0.1393
+Some time ago I was present at the wedding party of two close friends of mine.,joy,joy,0.6553581357002258,True,0.6554,0.0746,0.0272,0.041,0.0396
+I remember being sad whe my aunt's child died (2 days old).,sadness,sadness,0.7360518574714661,True,0.0507,0.7361,0.0576,0.0581,0.051
+I felt fear when I was young and left in my big house all alone.,fear,fear,0.4705188572406769,True,0.0337,0.364,0.0411,0.4705,0.0461
+I was disgusted when my brother was arrested because of stealing money.,disgust,disgust,0.8993415236473083,True,0.0152,0.0125,0.0443,0.0127,0.8993
+"I felt anger when I saw that I was being misleaded by my boyfriend, he went out with other girls. I felt anger for his falsity.",anger,anger,0.8157666325569153,True,0.0167,0.0743,0.8158,0.0239,0.0499
+ No response.,disgust,surprise,0.5193027853965759,False,0.0621,0.1329,0.1063,0.092,0.0874
+When my mother died in August 1978.,sadness,sadness,0.5780189633369446,True,0.1279,0.578,0.0571,0.0709,0.0726
+"There is a certain person, whom I only have seen. He makes me cringe, feel disgust.",disgust,disgust,0.6422831416130066,True,0.0284,0.0749,0.1435,0.0777,0.6423
+I was on my way home when suddenly Gule Wamkulu came from the bush and blocked the road. I was in fear and didn't know what to do.,fear,fear,0.5816532373428345,True,0.0358,0.1177,0.0538,0.5817,0.0549
+I got a very nasty electrical shock when I was tampering with some electrical applainces.,fear,disgust,0.36323535442352295,False,0.0428,0.0514,0.3122,0.0957,0.3632
+"After the first of May, I detested my fiance's friends, who had piled on to our party and spoilt it completely.",disgust,disgust,0.5007637143135071,True,0.1269,0.1661,0.0859,0.0439,0.5008
+"When I was dancing with a dame at a social, one of my friends who was interested in her came and took her away from me. I was really angry with him then.",anger,anger,0.8729667663574219,True,0.0127,0.0425,0.873,0.0175,0.035
+I felt disgusted when I was in a helpless position at the loss of my fiancee.,disgust,disgust,0.8740503191947937,True,0.0147,0.0171,0.065,0.013,0.8741
+"When I was going home, I saw somathing which looked like a snake on the road but later I found out that it was only a stick.",fear,surprise,0.42166534066200256,False,0.0926,0.1904,0.0748,0.1378,0.0828
+The day the results of the certificate exam came out. I went to school and at first I did not feel frightened. By the time I reached the fourth floor ( the results were being given on the fifth floor) I found it difficult to walk and felt that I would die.,fear,sadness,0.38890624046325684,False,0.0843,0.3889,0.0458,0.2198,0.0491
+An argument among friends in which my opinions on the way to spend spare time were disapproved.,anger,disgust,0.5824739336967468,False,0.0312,0.0881,0.2093,0.0494,0.5825
+When I had an argument with my best friend and I thought that I was right and she was not.,anger,sadness,0.4363802969455719,False,0.0475,0.4364,0.1794,0.1481,0.0871
+I was present when they found a shop-keeper dead in his shop. He had been shot with a shotgun at close range.,disgust,surprise,0.4350844919681549,False,0.2263,0.1092,0.0596,0.1105,0.0593
+Being driven by friend who suddenly swerved and skidded a little. It was night and on a long trip. We ended up on side of road.,fear,surprise,0.44706156849861145,False,0.199,0.1533,0.0484,0.0894,0.0629
+"After having watched a crime show on the TV, I was about to take the dog for a walk. Then, suddenly, there was a man on the porch... (We live some distance away from other people).",fear,surprise,0.538399875164032,False,0.1165,0.1033,0.0522,0.1117,0.078
+When my girlfriend left me.,sadness,sadness,0.5390170812606812,True,0.0814,0.539,0.0937,0.0974,0.0987
+The last time I had sex.,joy,sadness,0.34019139409065247,False,0.1217,0.3402,0.1232,0.0836,0.1923
+Had a nice letter from my close friend.,joy,joy,0.8795754909515381,True,0.8796,0.0238,0.0175,0.0166,0.0222
+I was sitting in a station-hall and watching a lavatory attendant. She was very dirty. She started to eat something out of a dirty cup - it must have been something like lard. Then she took some breadcrumbs out of the pockets of her apron and ate them. I had to leave - I felt like vomitting. ,disgust,sadness,0.29764342308044434,False,0.0825,0.2976,0.1239,0.1305,0.2459

@@ -1,0 +1,121 @@
+text,label
+"I feel very happy about my work today",joy
+"I am excited about completing my project",joy
+"My manager appreciated my contribution",joy
+"I feel proud of my recent achievement",joy
+"I enjoy collaborating with my team",joy
+"I am motivated to do my best work",joy
+"I feel satisfied with my career progress",joy
+"My colleagues made me feel welcome",joy
+"I am grateful for the support from my team",joy
+"I feel positive about my future at work",joy
+"I am enjoying the responsibilities of my new role",joy
+"I feel confident after completing the task",joy
+"I am happy with the recognition I received",joy
+"My team celebrated my success and I felt great",joy
+"I feel energized and enthusiastic about work",joy
+"I am pleased with the progress of our project",joy
+"I feel appreciated by my coworkers",joy
+"I am excited to learn new skills",joy
+"I feel fulfilled by the work I do",joy
+"I am cheerful because my project went well",joy
+"I feel sad about the problems at work",sadness
+"I have been feeling emotionally drained lately",sadness
+"I am disappointed with my recent performance",sadness
+"I feel lonely even when I am around my coworkers",sadness
+"I feel unhappy with my current situation",sadness
+"I have lost motivation because of repeated setbacks",sadness
+"I feel down after receiving negative feedback",sadness
+"I am struggling emotionally because of my workload",sadness
+"I feel discouraged about my career progress",sadness
+"I miss having supportive colleagues",sadness
+"I feel exhausted and unhappy after work",sadness
+"I am disappointed that my efforts were not recognized",sadness
+"I feel isolated from my team",sadness
+"I am upset because things did not go as planned",sadness
+"I feel low after a difficult week",sadness
+"I am unhappy with the lack of support",sadness
+"I feel emotionally tired from constant pressure",sadness
+"I feel discouraged by the workplace situation",sadness
+"I am sad that my concerns were ignored",sadness
+"I feel hopeless about improving my current situation",sadness
+"I am angry about the unfair workload",anger
+"I feel frustrated with my manager",anger
+"I am irritated by constant interruptions",anger
+"I am upset because my concerns were ignored",anger
+"I feel annoyed by the lack of communication",anger
+"I am frustrated with unrealistic deadlines",anger
+"I am angry about being treated unfairly",anger
+"I feel irritated when my work is not respected",anger
+"I am upset about the unequal distribution of work",anger
+"I feel frustrated by repeated technical problems",anger
+"I am annoyed by unnecessary meetings",anger
+"I am angry because my contributions were ignored",anger
+"I feel frustrated when decisions are made without consulting me",anger
+"I am irritated by the negative behavior of my coworker",anger
+"I feel angry about the lack of recognition",anger
+"I am frustrated with poor management decisions",anger
+"I am annoyed by constant workplace conflicts",anger
+"I feel angry when deadlines are changed unexpectedly",anger
+"I am upset about the unfair treatment of employees",anger
+"I am furious about the unreasonable workload",anger
+"I am worried that I will miss the deadline",fear
+"I feel nervous about the upcoming presentation",fear
+"I am anxious about my job security",fear
+"I am afraid that my performance will not be good enough",fear
+"I feel concerned about making mistakes",fear
+"I am scared about the changes happening at work",fear
+"I worry that my manager is unhappy with my performance",fear
+"I feel nervous when I have to speak in meetings",fear
+"I am anxious about taking on a new responsibility",fear
+"I am worried about failing the project",fear
+"I feel uncertain about my future at the company",fear
+"I am afraid of making the wrong decision",fear
+"I feel stressed about the upcoming deadline",fear
+"I worry that I will disappoint my team",fear
+"I am nervous about receiving performance feedback",fear
+"I feel anxious because my workload keeps increasing",fear
+"I am concerned that I cannot meet expectations",fear
+"I am worried about unexpected changes in my role",fear
+"I feel scared about losing my job",fear
+"I am nervous about an important client meeting",fear
+"I was surprised by the unexpected promotion",surprise
+"I did not expect my manager to appreciate my work",surprise
+"I am amazed by how quickly the project finished",surprise
+"I was shocked by the sudden announcement",surprise
+"I never expected such positive feedback",surprise
+"I was surprised to receive recognition",surprise
+"I was surprised when my team supported my idea",surprise
+"I did not expect to finish the project so early",surprise
+"I was amazed by the unexpected result",surprise
+"I was surprised by the sudden change in responsibilities",surprise
+"I did not expect my manager to approve the request",surprise
+"I was shocked when the meeting was cancelled",surprise
+"I was surprised to receive an award",surprise
+"I did not expect such a helpful response",surprise
+"I was amazed by my team's performance",surprise
+"I was surprised when my colleague offered help",surprise
+"I did not expect the project to succeed so quickly",surprise
+"I was shocked by the unexpected workload change",surprise
+"I was surprised by the positive outcome",surprise
+"I never expected to receive such strong appreciation",surprise
+"I dislike the toxic atmosphere in the office",disgust
+"I feel disgusted by the unfair treatment",disgust
+"I cannot stand the constant negativity",disgust
+"The workplace behavior is unacceptable",disgust
+"I am uncomfortable with the disrespectful environment",disgust
+"I strongly dislike the way employees are treated",disgust
+"I dislike the toxic behavior of my coworker",disgust
+"I feel disgusted when people are treated disrespectfully",disgust
+"I cannot tolerate unethical behavior at work",disgust
+"I dislike the constant gossip in the workplace",disgust
+"I feel uncomfortable with the hostile atmosphere",disgust
+"I strongly dislike workplace bullying",disgust
+"I am disgusted by dishonest behavior",disgust
+"I dislike the lack of professionalism",disgust
+"I feel uncomfortable when employees are humiliated",disgust
+"I cannot stand the disrespect shown to coworkers",disgust
+"I dislike the negative culture in the workplace",disgust
+"I feel disgusted by unfair workplace practices",disgust
+"I strongly dislike the hostile communication style",disgust
+"I am uncomfortable with the toxic team environment",disgust
